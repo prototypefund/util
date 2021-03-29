@@ -11,10 +11,12 @@ import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
 
 import org.locationtech.jts.geom.Geometry;
+import org.locationtech.jts.geom.MultiPolygon;
 import org.locationtech.jts.geom.prep.PreparedGeometry;
 import org.locationtech.jts.geom.prep.PreparedGeometryFactory;
 import org.xml.sax.SAXException;
 
+import de.topobyte.jts.utils.PolygonHelper;
 import de.topobyte.osm4j.core.access.OsmIteratorInput;
 import de.topobyte.osm4j.core.model.iface.EntityContainer;
 import de.topobyte.osm4j.core.model.iface.EntityType;
@@ -73,6 +75,8 @@ public class ExtractLandkreise
 
 		// iterate data
 		GeometryBuilder geometryBuilder = new GeometryBuilder();
+		geometryBuilder.getRegionBuilder().setIncludePuntal(false);
+		geometryBuilder.getRegionBuilder().setIncludeLineal(false);
 
 		NodeDB nodeDB = new NodeDB(nodeDbData, nodeDbIndex);
 		VarDB<WayRecord> wayDB = new VarDB<>(wayDbData, wayDbIndex,
@@ -102,6 +106,10 @@ public class ExtractLandkreise
 			}
 			if (!prepared.covers(geometry)) {
 				continue;
+			}
+			if (geometry instanceof MultiPolygon) {
+				geometry = PolygonHelper
+						.unpackMultipolygon((MultiPolygon) geometry);
 			}
 
 			String name = tags.get("name");
