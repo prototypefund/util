@@ -65,12 +65,12 @@ public class PrintStats
 			}
 		}
 		for (EntityType type : EntityType.values()) {
-			System.out.println(String.format("### %s:", type));
+			System.out.println(String.format("## %s:", type));
 			Multiset<OsmTag> set = counts.get(type);
 			print(set);
 		}
 
-		System.out.println("### Insgesamt:");
+		System.out.println("## Insgesamt:");
 		print(totals);
 	}
 
