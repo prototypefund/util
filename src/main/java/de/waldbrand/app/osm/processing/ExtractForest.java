@@ -9,6 +9,7 @@ import javax.xml.transform.TransformerException;
 
 import org.xml.sax.SAXException;
 
+import de.topobyte.osm4j.core.model.iface.EntityType;
 import de.topobyte.system.utils.SystemPaths;
 
 public class ExtractForest
@@ -27,14 +28,18 @@ public class ExtractForest
 		Path dirData = SystemPaths.CWD.resolve("data");
 		Path dirKreise = dirData.resolve("wald");
 
-		RegionExtractor regionExtractor = new RegionExtractor(input);
+		RegionExtractor regionExtractor = new RegionExtractor(input, true);
 		regionExtractor.prepare();
 		regionExtractor.extract(dirKreise, tags -> {
 			String landuse = tags.get("landuse");
 			String natural = tags.get("natural");
 			return "forest".equals(landuse) || "wood".equals(natural);
 		}, entity -> {
-			return String.format("relation-%d.smx", entity.getId());
+			if (entity.getType() == EntityType.Relation) {
+				return String.format("relation-%d.smx", entity.getId());
+			} else {
+				return String.format("way-%d.smx", entity.getId());
+			}
 		});
 	}
 

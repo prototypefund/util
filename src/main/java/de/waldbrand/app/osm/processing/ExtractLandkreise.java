@@ -29,7 +29,7 @@ public class ExtractLandkreise
 		Path dirData = SystemPaths.CWD.resolve("data");
 		Path dirKreise = dirData.resolve("kreise");
 
-		RegionExtractor regionExtractor = new RegionExtractor(input);
+		RegionExtractor regionExtractor = new RegionExtractor(input, false);
 		regionExtractor.prepare();
 		regionExtractor.extract(dirKreise, tags -> {
 			String adminLevel = tags.get("admin_level");
