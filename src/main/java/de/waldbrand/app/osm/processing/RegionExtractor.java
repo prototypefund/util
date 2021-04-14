@@ -25,11 +25,6 @@ import de.topobyte.osm4j.core.model.iface.OsmRelation;
 import de.topobyte.osm4j.core.model.util.OsmModelUtil;
 import de.topobyte.osm4j.core.resolve.EntityNotFoundException;
 import de.topobyte.osm4j.core.resolve.OsmEntityProvider;
-import de.topobyte.osm4j.diskstorage.EntityDbSetup;
-import de.topobyte.osm4j.diskstorage.EntityProviderImpl;
-import de.topobyte.osm4j.diskstorage.nodedb.NodeDB;
-import de.topobyte.osm4j.diskstorage.vardb.VarDB;
-import de.topobyte.osm4j.diskstorage.waydb.WayRecord;
 import de.topobyte.osm4j.geometry.GeometryBuilder;
 import de.topobyte.osm4j.utils.FileFormat;
 import de.topobyte.osm4j.utils.OsmFileInput;
@@ -43,10 +38,7 @@ public class RegionExtractor
 
 	private Path input;
 
-	private Path nodeDbIndex;
-	private Path nodeDbData;
-	private Path wayDbIndex;
-	private Path wayDbData;
+	private EntityDbs entityDbs;
 
 	private PreparedGeometry prepared;
 
@@ -59,16 +51,8 @@ public class RegionExtractor
 			SAXException, TransformerException
 	{
 		Path dir = Files.createTempDirectory("waldbrand-osm");
-		nodeDbIndex = dir.resolve("nodedb.idx");
-		nodeDbData = dir.resolve("nodedb.dat");
-		wayDbIndex = dir.resolve("waydb.idx");
-		wayDbData = dir.resolve("waydb.dat");
-
-		// create entity databases
-		if (!Files.exists(nodeDbData)) {
-			EntityDbSetup.createNodeDb(input, nodeDbIndex, nodeDbData);
-			EntityDbSetup.createWayDb(input, wayDbIndex, wayDbData, false);
-		}
+		entityDbs = new EntityDbs(dir);
+		entityDbs.init(input);
 
 		Path dirData = SystemPaths.CWD.resolve("data");
 		Path fileBrandenburg = dirData.resolve("Brandenburg.smx");
@@ -92,11 +76,7 @@ public class RegionExtractor
 		geometryBuilder.getRegionBuilder().setIncludePuntal(false);
 		geometryBuilder.getRegionBuilder().setIncludeLineal(false);
 
-		NodeDB nodeDB = new NodeDB(nodeDbData, nodeDbIndex);
-		VarDB<WayRecord> wayDB = new VarDB<>(wayDbData, wayDbIndex,
-				new WayRecord(0));
-		OsmEntityProvider entityProviderImpl = new EntityProviderImpl(nodeDB,
-				wayDB);
+		OsmEntityProvider entityProvider = entityDbs.entityProvider();
 
 		OsmFileInput fileInput = new OsmFileInput(input, FileFormat.TBO);
 		OsmIteratorInput iterator = fileInput.createIterator(true, false);
@@ -113,7 +93,7 @@ public class RegionExtractor
 
 			Geometry geometry;
 			try {
-				geometry = geometryBuilder.build(relation, entityProviderImpl);
+				geometry = geometryBuilder.build(relation, entityProvider);
 			} catch (EntityNotFoundException e) {
 				continue;
 			}
