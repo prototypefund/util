@@ -3,12 +3,14 @@ package de.waldbrand.app.osm.processing;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Map;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
 
 import org.xml.sax.SAXException;
 
+import de.topobyte.osm4j.core.model.util.OsmModelUtil;
 import de.topobyte.system.utils.SystemPaths;
 
 public class ExtractLandkreise
@@ -35,6 +37,10 @@ public class ExtractLandkreise
 				return false;
 			}
 			return true;
+		}, entity -> {
+			Map<String, String> tags = OsmModelUtil.getTagsAsMap(entity);
+			String name = tags.get("name");
+			return String.format("%s.smx", name);
 		});
 	}
 

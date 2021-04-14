@@ -31,7 +31,10 @@ public class ExtractForest
 		regionExtractor.prepare();
 		regionExtractor.extract(dirKreise, tags -> {
 			String landuse = tags.get("landuse");
-			return "forest".equals(landuse);
+			String natural = tags.get("natural");
+			return "forest".equals(landuse) || "wood".equals(natural);
+		}, entity -> {
+			return String.format("relation-%d.smx", entity.getId());
 		});
 	}
 

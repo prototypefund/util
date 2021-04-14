@@ -20,6 +20,7 @@ import de.topobyte.jts.utils.PolygonHelper;
 import de.topobyte.osm4j.core.access.OsmIteratorInput;
 import de.topobyte.osm4j.core.model.iface.EntityContainer;
 import de.topobyte.osm4j.core.model.iface.EntityType;
+import de.topobyte.osm4j.core.model.iface.OsmEntity;
 import de.topobyte.osm4j.core.model.iface.OsmRelation;
 import de.topobyte.osm4j.core.model.util.OsmModelUtil;
 import de.topobyte.osm4j.core.resolve.EntityNotFoundException;
@@ -79,7 +80,8 @@ public class RegionExtractor
 	}
 
 	public void extract(Path dirOutput,
-			Function<Map<String, String>, Boolean> selector) throws IOException,
+			Function<Map<String, String>, Boolean> selector,
+			Function<OsmEntity, String> namer) throws IOException,
 			ParserConfigurationException, SAXException, TransformerException
 	{
 		// setup output directory
@@ -95,8 +97,6 @@ public class RegionExtractor
 				new WayRecord(0));
 		OsmEntityProvider entityProviderImpl = new EntityProviderImpl(nodeDB,
 				wayDB);
-
-		int unnamed = 1;
 
 		OsmFileInput fileInput = new OsmFileInput(input, FileFormat.TBO);
 		OsmIteratorInput iterator = fileInput.createIterator(true, false);
@@ -125,20 +125,14 @@ public class RegionExtractor
 						.unpackMultipolygon((MultiPolygon) geometry);
 			}
 
-			String name = tags.get("name");
-
 			EntityFile entityFile = new EntityFile();
 			entityFile.setGeometry(geometry);
 			for (Entry<String, String> tag : tags.entrySet()) {
 				entityFile.addTag(tag.getKey(), tag.getValue());
 			}
 
-			if (name == null) {
-				name = String.format("unnamed-%d", unnamed++);
-			}
-
-			Path file = dirOutput
-					.resolve(String.format("%s.smx", name.replace("/", "_")));
+			String name = namer.apply(relation);
+			Path file = dirOutput.resolve(name);
 			SmxFileWriter.write(entityFile, file);
 		}
 	}
