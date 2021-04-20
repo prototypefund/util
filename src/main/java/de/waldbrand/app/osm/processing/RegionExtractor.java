@@ -5,6 +5,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.Set;
 import java.util.function.Function;
 
 import javax.xml.parsers.ParserConfigurationException;
@@ -13,13 +14,12 @@ import javax.xml.transform.TransformerException;
 import org.locationtech.jts.geom.Geometry;
 import org.locationtech.jts.geom.LinearRing;
 import org.locationtech.jts.geom.MultiPolygon;
-import org.locationtech.jts.geom.prep.PreparedGeometry;
-import org.locationtech.jts.geom.prep.PreparedGeometryFactory;
 import org.xml.sax.SAXException;
 
 import com.slimjars.dist.gnu.trove.set.TLongSet;
 import com.slimjars.dist.gnu.trove.set.hash.TLongHashSet;
 
+import de.topobyte.jts.indexing.GeometryTesselationMap;
 import de.topobyte.jts.utils.PolygonHelper;
 import de.topobyte.osm4j.core.access.OsmIteratorInput;
 import de.topobyte.osm4j.core.model.iface.EntityContainer;
@@ -37,21 +37,23 @@ import de.topobyte.osm4j.utils.OsmFileInput;
 import de.topobyte.simplemapfile.core.EntityFile;
 import de.topobyte.simplemapfile.xml.SmxFileReader;
 import de.topobyte.simplemapfile.xml.SmxFileWriter;
-import de.topobyte.system.utils.SystemPaths;
 
 public class RegionExtractor
 {
 
 	private Path input;
+	private Map<Path, Path> mapping;
 	private boolean useWays;
 
 	private EntityDbs entityDbs;
 
-	private PreparedGeometry prepared;
+	private GeometryTesselationMap<Path> geometryToDir = new GeometryTesselationMap<>(
+			true);
 
-	public RegionExtractor(Path input, boolean useWays)
+	public RegionExtractor(Path input, Map<Path, Path> mapping, boolean useWays)
 	{
 		this.input = input;
+		this.mapping = mapping;
 		this.useWays = useWays;
 	}
 
@@ -62,13 +64,12 @@ public class RegionExtractor
 		entityDbs = new EntityDbs(dir);
 		entityDbs.init(input);
 
-		Path dirData = SystemPaths.CWD.resolve("data");
-		Path fileBrandenburg = dirData.resolve("Brandenburg.smx");
-
-		// load geometry and prepare for containment tests
-		EntityFile brandenburg = SmxFileReader.read(fileBrandenburg);
-		Geometry buffer = brandenburg.getGeometry().buffer(0.001);
-		prepared = PreparedGeometryFactory.prepare(buffer);
+		for (Path file : mapping.keySet()) {
+			Path dirOutput = mapping.get(file);
+			EntityFile ef = SmxFileReader.read(file);
+			Geometry buffer = ef.getGeometry().buffer(0.001);
+			geometryToDir.add(buffer, dirOutput);
+		}
 	}
 
 	private GeometryBuilder geometryBuilder = new GeometryBuilder();
@@ -77,13 +78,14 @@ public class RegionExtractor
 	// record way ids used for relation polygon building
 	private TLongSet usedWays = new TLongHashSet();
 
-	public void extract(Path dirOutput,
-			Function<Map<String, String>, Boolean> selector,
+	public void extract(Function<Map<String, String>, Boolean> selector,
 			Function<OsmEntity, String> namer) throws IOException,
 			ParserConfigurationException, SAXException, TransformerException
 	{
 		// setup output directory
-		Files.createDirectories(dirOutput);
+		for (Path dirOutput : mapping.values()) {
+			Files.createDirectories(dirOutput);
+		}
 
 		// iterate data
 		geometryBuilder.getRegionBuilder().setIncludePuntal(false);
@@ -91,12 +93,11 @@ public class RegionExtractor
 
 		entityProvider = entityDbs.entityProvider();
 
-		relations(dirOutput, selector, namer);
-		ways(dirOutput, selector, namer);
+		relations(selector, namer);
+		ways(selector, namer);
 	}
 
-	private void relations(Path dirOutput,
-			Function<Map<String, String>, Boolean> selector,
+	private void relations(Function<Map<String, String>, Boolean> selector,
 			Function<OsmEntity, String> namer) throws TransformerException,
 			ParserConfigurationException, IOException
 	{
@@ -128,20 +129,24 @@ public class RegionExtractor
 			} catch (EntityNotFoundException e) {
 				continue;
 			}
-			if (!prepared.covers(geometry)) {
+
+			Set<Path> dirsOutput = geometryToDir.covering(geometry);
+			if (dirsOutput.isEmpty()) {
 				continue;
 			}
+
 			if (geometry instanceof MultiPolygon) {
 				geometry = PolygonHelper
 						.unpackMultipolygon((MultiPolygon) geometry);
 			}
 
-			write(dirOutput, geometry, relation, tags, namer);
+			for (Path dirOutput : dirsOutput) {
+				write(dirOutput, geometry, relation, tags, namer);
+			}
 		}
 	}
 
-	private void ways(Path dirOutput,
-			Function<Map<String, String>, Boolean> selector,
+	private void ways(Function<Map<String, String>, Boolean> selector,
 			Function<OsmEntity, String> namer) throws IOException,
 			TransformerException, ParserConfigurationException
 	{
@@ -167,18 +172,22 @@ public class RegionExtractor
 			} catch (EntityNotFoundException e) {
 				continue;
 			}
-			if (!prepared.covers(geometry)) {
+
+			if (!(geometry instanceof LinearRing)) {
 				continue;
 			}
 
-			if (!(geometry instanceof LinearRing)) {
+			Set<Path> dirsOutput = geometryToDir.covering(geometry);
+			if (dirsOutput.isEmpty()) {
 				continue;
 			}
 
 			geometry = geometryBuilder.getGeometryFactory()
 					.createPolygon((LinearRing) geometry);
 
-			write(dirOutput, geometry, way, tags, namer);
+			for (Path dirOutput : dirsOutput) {
+				write(dirOutput, geometry, way, tags, namer);
+			}
 		}
 	}
 

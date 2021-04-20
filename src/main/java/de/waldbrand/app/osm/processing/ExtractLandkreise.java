@@ -3,6 +3,7 @@ package de.waldbrand.app.osm.processing;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.HashMap;
 import java.util.Map;
 
 import javax.xml.parsers.ParserConfigurationException;
@@ -28,10 +29,15 @@ public class ExtractLandkreise
 
 		Path dirData = SystemPaths.CWD.resolve("data");
 		Path dirKreise = dirData.resolve("kreise");
+		Path fileBrandenburg = dirData.resolve("Brandenburg.smx");
 
-		RegionExtractor regionExtractor = new RegionExtractor(input, false);
+		Map<Path, Path> mapping = new HashMap<>();
+		mapping.put(fileBrandenburg, dirKreise);
+
+		RegionExtractor regionExtractor = new RegionExtractor(input, mapping,
+				false);
 		regionExtractor.prepare();
-		regionExtractor.extract(dirKreise, tags -> {
+		regionExtractor.extract(tags -> {
 			String adminLevel = tags.get("admin_level");
 			if (!"6".equals(adminLevel)) {
 				return false;
