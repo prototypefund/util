@@ -8,12 +8,18 @@
             <rule e="node" k="fire_hydrant:type" v="underground">
                 <class id="hydrant-underground"/>
             </rule>
+            <rule e="node" k="fire_hydrant:type" v="pipe">
+                <class id="hydrant-pipe"/>
+            </rule>
         </rule>
         <rule e="node" k="emergency" v="water_tank">
             <class id="water-tank"/>
         </rule>
         <rule e="node" k="emergency" v="fire_water_pond">
             <class id="fire-water-pond"/>
+        </rule>
+        <rule e="node" k="emergency" v="suction_point">
+            <class id="suction-point"/>
         </rule>
     </rule>
     <rule e="way" k="*" v="*" zoom-min="15">
@@ -24,12 +30,18 @@
             <rule e="way" k="fire_hydrant:type" v="underground">
                 <class id="hydrant-underground2" simplify="node"/>
             </rule>
+            <rule e="way" k="fire_hydrant:type" v="pipe">
+                <class id="hydrant-pipe2" simplify="node"/>
+            </rule>
         </rule>
         <rule e="way" k="emergency" v="water_tank">
             <class id="water-tank2" simplify="node"/>
         </rule>
         <rule e="way" k="emergency" v="fire_water_pond">
             <class id="fire-water-pond2" simplify="node"/>
+        </rule>
+        <rule e="way" k="emergency" v="suction_point">
+            <class id="suction-point2" simplify="node"/>
         </rule>
     </rule>
 </rules>
