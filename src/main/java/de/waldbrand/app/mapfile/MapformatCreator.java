@@ -326,7 +326,7 @@ class MapformatCreator implements OsmEntityGeometryHandler
 
 		Node mapNode = new Node(itags, coordinate);
 		Set<ObjectClassRef> elements = ruleMatcher.getElements(mapNode, tags,
-				-1, -1, true);
+				-1, -1, false);
 
 		if (isHousenumber(tags)) {
 			housenumber(point, tags);
@@ -374,7 +374,7 @@ class MapformatCreator implements OsmEntityGeometryHandler
 		Way mapWay = new Way(itags, geom);
 
 		Set<ObjectClassRef> elements = ruleMatcher.getElements(mapWay, tags, -1,
-				-1, true);
+				-1, false);
 
 		if (isHousenumber(tags)) {
 			Point point = string.getCentroid();
@@ -473,7 +473,7 @@ class MapformatCreator implements OsmEntityGeometryHandler
 		Relation mapRelation = new Relation(itags, mercPolygon);
 
 		Set<ObjectClassRef> elements = ruleMatcher.getElements(mapRelation,
-				tags, -1, -1, true);
+				tags, -1, -1, false);
 
 		if (isHousenumber(tags)) {
 			housenumber(centroid, tags);
