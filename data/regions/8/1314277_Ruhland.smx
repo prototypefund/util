@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="34156"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066272"/>
+        <tag k="de:place" v="town"/>
+        <tag k="de:regionalschluessel" v="120665607272"/>
+        <tag k="name" v="Ruhland"/>
+        <tag k="name:prefix" v="Stadt"/>
+        <tag k="population" v="3655"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q572601"/>
+        <tag k="wikipedia" v="de:Ruhland"/>
+        <geometry type="wkb-base64">
+AAAAAAcAAAACAAAAAAYAAAABAAAAAAMAAAABAAAAUEArmHoKiBk+QEm1AX2ugYhAK5qUKECQ6UBJ
+tcPT/8b1QCuaddPBs5RASbZVLwZ9yEArmnC3IkCcQEm2ba5ZRD9AK5mKGBxWeEBJtyQO0wGaQCuY
+oKeq1FRASbefDyRgMUArnP7oqMtlQEm3+XCZxg9AK5qZ9rarIkBJuL7TDwYtQCuax0nWDOdASbnS
+QYDT0EArmB1ID2NKQEm6iuTK8FNAK5az3RG+bkBJu7RyYvPrQCuYrZrYXfpASbvZso5dJUArnSK+
+cOl3QEm77hHA8qRAK58jPEUqrEBJu7SyI9QaQCuikHlfZ25ASbtasf09rkArpykOFkM4QEm7Z+rK
+5JVAK6fo3aSLZUBJu2oSw1EjQCuqk/lGqFtASbtx0qszH0Arqz80yTVoQEm7c/JAI9xAK6vp+tr9
+EUBJu3XSFDRqQCutP166oHpASbt5crKlA0ArrqueftuoQEm7fTuVAYRAK7B5Uft1VkBJu34oJAt4
+QCuysT37DVJASbt+TDY5eEArswyjfHFqQEm7lP8AJb9AK7M7DRxINUBJu5Xk2TMMQCuzZX4JGltA
+SbujkWogL0Ars3Gd0g1+QEm71gSD8z9AK7P7m+0w8EBJu9GleaGsQCu0SyFmghVASbvGWsLENUAr
+tLRhm/xKQEm7xlrCxDVAK7U8CnJJyUBJu9yTE22bQCu1hIzCGsJASbvaYreFPUArtpAba5ZRQEm7
+oxsimzVAK7djvGf6u0BJu4rU2rhIQCu4PvQxlaRASbuKQGBCYEAruF394hiOQEm7iitnjNdAK7j9
+d4+DlkBJu5N4F2jSQCu5coBQHHhASbuiwjdHlUArueUBdviFQEm7fpsQkh5AK7puQ6p5u0BJu36b
+EJIeQCu7LRQ1QSpASbtRqGlANUArv1wOHc/0QEm7M72criFAK8EX531SO0BJuy/KyOaOQCvB2OGu
+BWFASbswAU+LWEArwjUak//8QEm7Okp+qVNAK8WKV902p0BJu1EQk8v6QCvGRhCFiUFASbtLP5lz
+A0ArxzcKWEiWQEm7Ua/1/HFAK8fzkwozX0BJuwwiTTHiQCvNo5nNm/9ASbsLMmMpm0ArzqH1iK25
+QEm7PMtiaYFAK89YcAOeGkBJuyilOreMQCvQmym8kexASbrdWQwK0EAr0NdnWoIsQEm6Lw7hRFNA
+K80wI7Q6LkBJuZcaY1iVQCvNjajKjwVASbkDTZJaCkArzJ0rHpG7QEm4d9AbNeZAK8lGEVxI1kBJ
+uI6254g6QCvFQUHpr1tASbhMFy/HbkArxYQQm1i2QEm3tBbzYYxAK8peo/pFrEBJt8CUsCXNQCvK
+8ZyP7h9ASbdtSa92ekArzBeNuz8FQEm3FdLQHAxAK8r++x1CMEBJtq2xfpKtQCvK8ZyP7h9ASbY7
+JJk8fEArxgmt/qtsQEm2JDtIq2pAK8D5pyBq2UBJtkN4+5RgQCvAjsbXwEVASbWSa6fux0AruwaB
+I4EOQEm1oQCWJ/VAK7WLmfyV6EBJte4TbnHNQCuuwqldW/tASbXn07lQGEArrdIoVmBfQEm1q2tT
+NTFAK63SKFZgX0BJtJZYnHlIQCupd/eIYjlASbPu43gJ/UAro7ZI/MkUQEmzsV0EvdVAK6FPS5eu
+B0BJs9r7Y7kNQCuf55TPL31ASbRxLJMGAUArnBjdRpeUQEm0msryATlAK5h6CogZPkBJtQF9roGI
+AAAAAAFAK7szImw7kkBJusKh0J/A
+        </geometry>
+</entity>

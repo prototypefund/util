@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="40410"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12071164"/>
+        <tag k="de:regionalschluessel" v="120715101164"/>
+        <tag k="name" v="Guhrow"/>
+        <tag k="name:dsb" v="Góry"/>
+        <tag k="name:hsb" v="Góry"/>
+        <tag k="population" v="521"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q640819"/>
+        <tag k="wikipedia" v="de:Guhrow"/>
+        <geometry type="wkb-base64">
+AAAAAAcAAAACAAAAAAYAAAABAAAAAAMAAAABAAAATEAsZcCsLRoUQEnrPe9O19RALGYNO1HlpkBJ
+6z0G8YvJQCxmT2xO3bNASes/ZkdctkAsaMOSkWecQEnrbExZdOZALGnKPaZTvEBJ63/YJ3PiQCxq
+AwIS/7dASeuFnxDR30AsarrSz0VNQEnrsay11hBALGr4X/iOG0BJ67tSUQWsQCxraWlQJbJASevI
+GDIl7UAscONEB5bNQEnrzz9t1BlALHEjAYzH+kBJ64Wqz0wDQCxxN8ftaftASeuE0Yt4bkAscqlu
+IvNKQEnrfItr2W1ALHPm6a6E40BJ6wNZUNQuQCx0Rx6ignZASepLBApQvEAsdJvRgj4zQEnpqLPo
+0DhALHS1EBelOEBJ6UdgEOHPQCx1V2icoYtASejPhQ3xWkAseBP5sgglQEnox6Ru37FALHgVReJi
+YEBJ6MHzVPbSQCx4EZpcNzhASeiiOXtL0EAseAyYlLbbQEnocj7hvR9ALHgGwA2hqUBJ6FkKXVEU
+QCx4AfP2BoJASegQWepXIUAsd/maizEhQEnoD/A4C+BALHgAnbSxTUBJ6APd2xIKQCx4Bp5/smdA
+Sefu6wTGOEAsey8cTT2gQEnn5nUUfxNALHt34bjtHEBJ57mrh9inQCx7m+0w8GJASee6CKTqL0As
+e5Q+5sWcQEnnrwsa5jVALHwVGkN4JEBJ560Vd2CJQCx8FRpDeCRASeenqtRUgEAsfDzRQaaTQEnn
+p06OAoxALHxCKkb7Z0BJ56RP1gEpQCx8YzVZfiBASeekAPuogkAsfGc4HX2/QEnnn+AEt/VALHyC
+QmT/XkBJ55+dv5kHQCx8mJ7H1sNASed/KavK9EAsfKalGtcbQEnnfr/5f7NALHyt/Ccta0BJ52Tm
+M6YfQCx8xgYJLn1ASedksVqAf0AsfJKXRtkCQEnnQTVUdaNALHyRR7uAdEBJ5z6C8o4nQCx8fZSA
+VSVASec7nxJ/XkAsfF6e8cguQEnnLKqC9elALHwpEJqB90BJ5yHB8ad3QCx7rTpgTh5ASecOzfkc
+t0Aseu0/Mxu2QEnnLqHT+r5ALHm08Q30tUBJ5wBMVhnoQCx5RnlhFO1ASebmm6rr0UAsd++/QBxP
+QEnmz/wsNelALHX4hbg7RUBJ5uFa+UraQCx1Xp4bCJpASebgxagVXUAsdOiZse1NQEnm5CCmaLVA
+LHRAijPLCEBJ5u84MZ+1QCxxLwMiyi9ASecGIljwXEAscJM4VoiiQEnnB5ej9hRALG/Sn3Sk7UBJ
+5xUrCm/FQCxvPW/NF3VASecvJYd5BUAsb4ZTa7ffQEnng8ATgOZALG24ZuQ6p0BJ54naCPVyQCxq
+5xl/LQZASeeyvIBOb0AsauY8CZuKQEnoGpkIeiJALGu2FqfiMUBJ6CS2mK3hQCxsEUnUX2hASegl
+LAlzRkAsbHYEaRtMQEnoOARTS9dALGy586w0pkBJ6JRnKrGEQCxssUm5h3VASeid0Ta+2UAsbF0+
+n3gAQEno+SAR7j9ALGteWVGq7UBJ6XLbv67XQCxpEG7jDKpASen238XN1UAsZa/yoXKsQEnqsovY
+5rZALGW+uDcTkkBJ6uvDMhlXQCxlv1yhwYZASesmpK93UUAsZcCsLRoUQEnrPe9O19QAAAAAAUAs
+dZaBtyTEQEnoARTS9ds=
+        </geometry>
+</entity>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12064205"/>
+        <tag k="de:regionalschluessel" v="120645403205"/>
+        <tag k="name" v="Heckelberg-Brunow"/>
+        <tag k="openGeoDB:auto_update" v="population,place,name,is_in"/>
+        <tag k="openGeoDB:combination_of_public_administration" v="Amt Falkenberg-Höhe"/>
+        <tag k="openGeoDB:community_identification_number" v="12064205"/>
+        <tag k="openGeoDB:is_in" v="Märkisch-Oderland,Brandenburg,Bundesrepublik Deutschland,Europe"/>
+        <tag k="openGeoDB:is_in_loc_id" v="528"/>
+        <tag k="openGeoDB:layer" v="6"/>
+        <tag k="openGeoDB:license_plate_code" v="MOL"/>
+        <tag k="openGeoDB:loc_id" v="18022"/>
+        <tag k="openGeoDB:location" v="political_structure"/>
+        <tag k="openGeoDB:name" v="Heckelberg-Brunow"/>
+        <tag k="openGeoDB:population" v="871"/>
+        <tag k="openGeoDB:postal_codes" v="16259"/>
+        <tag k="openGeoDB:sort_name" v="HECKELBERG-BRUNOW"/>
+        <tag k="openGeoDB:telephone_area_code" v="033458"/>
+        <tag k="openGeoDB:type" v="Gemeinde"/>
+        <tag k="openGeoDB:version" v="0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/"/>
+        <tag k="population" v="871"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q202412"/>
+        <tag k="wikipedia" v="de:Heckelberg-Brunow"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

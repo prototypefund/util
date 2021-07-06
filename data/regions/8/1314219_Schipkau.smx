@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="33531"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066285"/>
+        <tag k="de:regionalschluessel" v="120660285285"/>
+        <tag k="name" v="Schipkau"/>
+        <tag k="population" v="6800"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q574443"/>
+        <tag k="wikipedia" v="de:Schipkau"/>
+        <geometry type="wkb-base64">
+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
+8vooT6piQEnCTd6wJB8=
+        </geometry>
+</entity>

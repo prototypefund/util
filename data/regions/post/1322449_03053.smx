@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="boundary" v="postal_code"/>
+        <tag k="note" v="03053 Cottbus"/>
+        <tag k="postal_code" v="03053"/>
+        <tag k="postal_code_level" v="8"/>
+        <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Postleitzahlen_Deutschland_2010"/>
+        <tag k="type" v="boundary"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAASkAsvPUaya/hQEnmqowwJItALL1iF0xM30BJ5sG2GFVhQCy8
+oZXnXXFASebaYDNGfkAsvIEvP4isQEnnIBikO7RALL0dVKSdAkBJ5xzl6dREQCy9VpiTCVxASece
+sZvu3kAsvWlxs6GCQEnnH0iao4VALL6rW2L9JUBJ578AW2+SQCy8jVW+eHZASeg7sLA2lEAsvH7k
+C62zQEnoPwNLDhtALLwtjCpFTkBJ6J2ZAprlQCy978RImcxASeim7uyyRUAsvtOYmOiZQEnovdnq
+woFALL9J43jgvEBJ6NqUNayKQCy/rOnYdk5ASekdezsJwUAswJlXVHqrQEnpHTnMqmhALMJ2jE5X
+fEBJ6S8sPXWsQCzCw7yC0q1ASekxju5E7EAsw1lADTZJQEnpNBxnPtNALMQUsj6sDUBJ6PouLud0
+QCzFoKAeGBlASekKvBukoUAsxZ9T7b3eQEno7cBiWz9ALMg3jF5HtEBJ6QF8AQJeQCzIPAE4DmRA
+SekB0z7W1UAsyD8wl3eAQEno41Z8DZdALMhENbn2MEBJ6N02p1v6QCzJbJcCD6RASejnWu2MYEAs
+ykB0ZFXrQEnoyi9jmtpALMntHnvsCUBJ6K/Oj0SsQCzJ6Rhc7hdASeiW+oLofUAsyp74fit/QEno
+h1ag9oVALMqUzKs+3UBJ6HoNDFf9QCzKf1Rz9ZtASeh0OY3AR0AsyldnxeH3QEnoaWNw6KBALMo0
+xrEp2UBJ6GFZtyt7QCzJjgNjYc9ASehWBcYSnkAsyPubFnFbQEnoT3jkF2xALMkr60BVWkBJ6EN4
+JNTLQCzJjOmH7nZASegvlEJBxEAsySALOEJmQEnoJR6deflALMlQBCRR70BJ6ATxAIi8QCzJ0SX3
+4U1ASegI36KSZkAsyqnqSbVVQEnn1RVwqo1ALMrIYFaB7EBJ54QqnIu8QCzLYCGoxzRASeeVgdzk
+ckAsy8X2GPZxQEnnlYHc5HJALMwMXC7U/0BJ55DXUziMQCzL/ogwu4lASedgpVxFe0Asy6aHvqXC
+QEnnPLFhNntALMubN/9KzkBJ5xxuy4+2QCzMdzx3f5NASechfFGKNkAszSI4OSxxQEnnIhGiv7NA
+LM2L0wd5cUBJ5x5gPVd5QCzP0GUHwZVASeZwaR6ni0As0rDB1EtGQEnmnbSxTRRALNJtKc8GY0BJ
+5lwu1P+hQCzSXfV+nL5ASeYunnj8a0As0bR7nS9QQEnlvEjxCplALM7YP8eWLEBJ5ZWBBiTdQCzL
+iMAtghlASeWCdLnmQEAsxfx+az/qQEnlrFVeAGZALMLeoeFmt0BJ5UDU3GXHQCzCpSGNGIFASeUT
+Qfwj0kAswME2lpUCQEnkjrOMieZALMAC3teRTEBJ5GEbo8p1QCy94M+5EFdASeRg4pjm7EAsvp8x
+iQ8HQEnlCwbEP19ALL+UFqLZtEBJ5eksfuQLQCy/lsaAgnFASeXrmu4tb0AswDuBtk4FQEnmhEmm
+PD9ALL8hI2Y2lUBJ5nmg1c39QCy/COPUUE5ASeaKlfCXrUAsvQvHtF8XQEnmhIiQXNpALLz1Gsmv
+4UBJ5qqMMCSL
+        </geometry>
+</entity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066202"/>
+        <tag k="de:regionalschluessel" v="120665601202"/>
+        <tag k="name" v="Luckaitztal"/>
+        <tag k="name:dsb" v="Łukajcyny doł"/>
+        <tag k="name:hsb" v="Łukajcyny doł"/>
+        <tag k="population" v="806"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q585318"/>
+        <tag k="wikipedia" v="de:Luckaitztal"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAWUAsEKbrkbPyQEnZU/wAlv5ALAvKRgnPjEBJ2a2ZKt7RQCwJ
+jD5nQ9xASdnIIkMg50AsCN7wu79eQEnZ4SzWIeBALAYuNZ1wvkBJ2ZbqkrBxQCwAiQJyoQdASdoq
+9/tOwEAr/9s4oFp+QEnancmqAp1AK/8Vnfb2bEBJ2tMoMKCxQCv9MMTD6c9ASdruUKsTPkAr+5ZR
+D70MQEnbZNjHrNJAK/ghXvVY3UBJ2v0epC/1QCv1GjzCKC5ASdqvZAY51kAr88SVxqZCQEnajQzD
+XOFAK/KGXlNybkBJ2oJ7b+LnQCvxbXEcos5ASdqHCyGcMkAr76qotZZPQEnaiEaK/sxAK+4NQgfi
+TEBJ2q8FO6kjQCvqxJNCZ4NASdrsG0atY0Ar5yTBgGhwQEnarhLNYh5AK+ZA7TAZo0BJ2qHHZYS/
+QCvl43+WuRRASdqb3u43gEAr5d2MN7FHQEnaDsjwnzpAK+X0dYhCWUBJ2aX1yG6ZQCvli5n8lehA
+SdltMjKCM0Ar5W6bvw3HQEnZZUeCdZBAK+UrHpG7fkBJ2TdoTBm0QCvlGmhhEmlASdkSbcDNu0Ar
+5PwkqSy0QEnY47Rv3rVAK+TQWiAHBkBJ2MA7xNIsQCvj7GRByPhASdi7JrIbcEAr4xCfinRiQEnY
+voePq9pAK+G23k3+kEBJ2LwzIZV8QCvglqDA1UdASdiwzZLFakAr30BcEKIOQEnYl2rrMGVAK9vs
+ISXqdUBJ2GP1ct5EQCvawmLmfyVASdhfjS5RTEAr2YTxa+iGQEnYU8PMcwpAK9kLhJiAlUBJ2Eeg
+qIGUQCvY39udSihASdgNzUgcz0Ar2H5d0/CtQEnXjKxLTQVAK9lR+BpYcEBJ11QEZBLPQCvbWV5A
+JzdASdctQYGqj0Ar3Bm6vCkQQEnW9JjDsMRAK9wZurwpEEBJ1pgm0tKgQCvdOkjRKilASdZuZg8o
+kkAr3rsFJCwvQEnWVosnEA9AK+FvifuW5EBJ1Y6254g6QCvh4vYD/btASdTSyxOPKUAr41B0jJnW
+QEnUmhx2WExAK+Y+r2g390BJ1IU7PcOwQCvn73wkPc1ASdRZCK/R6kAr6SdiRJi2QEnUOOlVmY9A
+K+v0X7jNO0BJ1CbIwaVRQCvr3/qm+qtASdPr6PHGgUAr6+0Zc26MQEnTpOiCNPlAK+y73ZFALkBJ
+02goB4YGQCvso2GZeAtASdMhaC+UQkAr7a9AystqQEnSusi+SlNAK+9lX9YpbUBJ0ofnwG4ZQCvx
+Jm1SEvJASdKPspAKpEAr8sypkV5hQEnSCrLhaTxAK/RmHkIKZkBJ0ga7BSQsQCv4v0yxiXpASdJU
+JfICEEAr/yUYvjznQEnSm5r7mWlALAU+H/Y/jUBJ0rdlXHsrQCwFsUWHyY1ASdJr95/fLkAsA9fa
+RwjTQEnSNGLeG6lALAVK6t/dSkBJ0fjVaVOAQCwHMSEKO8NASdIoeZvNUEAsBvEnHyi6QEnSq3wa
+LNJALAbs7qtD5kBJ0tEW3mjWQCwGwk7EiTFASdMcinpB5UAsBrxRVIZqQEnTNZoVwFtALAa9vxLP
+5kBJ00bTIygjQCwGv0sEClBASdNZesWY/EAsBteRS+0+QEnTj7yhBZ5ALArKZROAD0BJ1BSzFWui
+QCwNfVdDs7RASdUan752yEAsDb1RLsa9QEnVoYlSI7lALBFWkd0MtkBJ1eb4x/1aQCwTllsguAZA
+SdY0Vx+hhkAsFZYqeVBOQEnWvTWAFI1ALBci0OVgQUBJ1tj62HjSQCwXFgX7woNASddnyTz1VEAs
+FlYYOoloQEnXyvIBObxALBTv1eZRAkBJ1/6CUX54QCwSMBjMf6BASdhZuoZ5K0AsEL0IM6soQEnY
+2p5Gp4RALBCm65Gz8kBJ2VP8AJb+
+        </geometry>
+</entity>

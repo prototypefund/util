@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="34384"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12071028"/>
+        <tag k="de:regionalschluessel" v="120715101028"/>
+        <tag k="name" v="Briesen"/>
+        <tag k="name:dsb" v="Brjazyna"/>
+        <tag k="name:hsb" v="Brjazyna"/>
+        <tag k="population" v="763"/>
+        <tag k="population:date" v="2017-12--31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q506926"/>
+        <tag k="wikipedia" v="de:Briesen (Spreewald)"/>
+        <geometry type="wkb-base64">
+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
+9w==
+        </geometry>
+</entity>

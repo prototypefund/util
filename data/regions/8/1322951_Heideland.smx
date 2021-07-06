@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062219"/>
+        <tag k="de:regionalschluessel" v="120625202219"/>
+        <tag k="name" v="Heideland"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q582769"/>
+        <tag k="wikipedia" v="de:Heideland (Brandenburg)"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAANEArQQdCE6DGQEnPhOWtbmJAKz7gpp5k2kBJzwX6FQR0QCs+
+Umy0XkFASc4/RLltdEArOYHMHXpkQEnN5vE7QR5AKzSxLuGU20BJzb518fSkQCsw/QIevjFASc0j
+4K/YoEArMiz6NA4kQEnMKnyrTElAKzJxfRrd0UBJy/o/zJ6pQCsxvm5lOGlAScvf9Z59LkArMcTD
+Ew+nQEnL1x82JixAKzKD4Mqwk0BJy9T6mLfyQCsyoOJjNwdAScvUp4yhY0ArMvJA+pwTQEnL072B
+1i5AKzNePnm4UkBJy9KH97CmQCsx0ldQSO1AScrlkb+whEArMgG/86B2QEnKYQDL19pAKzTgl4Ts
+Y0BJyYBbBDKUQCs1J7LMcIZASciYTWk/XkArN+7UXpGFQEnIImw7kn1AKziUwOzEukBJx8Kip19V
+QCs7LHnbjjBAScdmhx2WE0ArPuCmnmTaQEnHZocdlhNAK0G/etSydEBJx7tE5QxeQCtEbgjyFwlA
+Scd2fuJeLkArRxvKYOHCQEnH4TvvmldAK0FacxMdE0BJyOCEObYEQCtBGWldkatAScloOnv80EAr
+QOPockTBQEnJ19zLR5FAK0NnbqQiiUBJyiQpqvQ1QCtJKMlM5YxASclRqu1+9EArSvIH77iKQEnJ
+m1i2entAK0s1xN3rAkBJy1KyVHuCQCtYCyd7bwxAScpwdbPhQ0ArWmzPNjOYQEnKBJc+dYZAK127
+j42nHUBJyhG/RSTNQCtg6HFuAWVAScqAPn7A0EArYKS0f87tQEnLhKyiitpAK2QVU05brUBJzB05
+zKpoQCthXvwO2bdASc1l83nfwEArX7eb4x/1QEnNuhe+YqZAK13uXUBM90BJzW3Xc++8QCtXlJza
+lrpASc2ailphdUArWJKhV9P8QEnOoXYG7VpAK1c/7VXZUEBJz7q7UlEFQCtS8yiBKIlASdAhO7nq
+ckArTkDE7C27QEnPle7qLgZAK0sC9ytFKEBJz5iPrl5MQCtH6GF9yVlASc/yO/IelkArRDNT6mLf
+QEnP5p4vKpBAK0QYDTz/ZEBJz+ZssQNCQCtC15635otASc/hzryRFUArQQdCE6DGQEnPhOWtbmI=
+        </geometry>
+</entity>

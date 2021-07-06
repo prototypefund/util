@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="4141"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062092"/>
+        <tag k="de:regionalschluessel" v="120620092092"/>
+        <tag k="name" v="Doberlug-Kirchhain"/>
+        <tag k="name:prefix" v="Stadt"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q371098"/>
+        <tag k="wikipedia" v="de:Doberlug-Kirchhain"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

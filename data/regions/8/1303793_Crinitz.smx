@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="40463"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062088"/>
+        <tag k="de:regionalschluessel" v="120625205088"/>
+        <tag k="name" v="Crinitz"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q582057"/>
+        <tag k="wikipedia" v="de:Crinitz"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

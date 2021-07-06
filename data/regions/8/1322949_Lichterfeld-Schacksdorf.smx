@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="40363"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062293"/>
+        <tag k="de:regionalschluessel" v="120625205293"/>
+        <tag k="name" v="Lichterfeld-Schacksdorf"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q556054"/>
+        <tag k="wikipedia" v="de:Lichterfeld-Schacksdorf"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAPEArpCsVV4AZQEnR5SZf5hlAK55rWsHtdUBJ0gQFSD5dQCuU
+hIbi3bBASdI4BFNL10Arklze/ie4QEnSI8aupZpAK5G3oOudckBJ0cgJGK12QCuUFK7jrbpASc7d
+xvAT+UArlDkfBX7FQEnOvKOJ3WRAK464qSlZlUBJzoWHk92YQCuLeeZ16z5ASc+IcwConEArhDCW
+oMDVQEnPHYYixFBAK3/b1lULy0BJzx6Ww/xDQCt++10DEFVASc8xYMsb8kArdbK9Vw4DQEnQWQ6P
+DvxAK3WrgSKqT0BJ0C50h5FZQCt0xvegte1ASc+daFszLEArd1pTMqz7QEnPcfvF3pxAK3c2VSaj
+AkBJzpJq0S8yQCt0+uKJzXNASc12b8jlt0Are1n4mdoxQEnNTpjqRzFAK3tZ+JnaMUBJzHeaa1Cx
+QCt7WfiZ2jFAScxOdoWYW0AreCFEHWZCQEnKv/Hy9wNAK3pZZczjc0BJyj/UK2XfQCuASopnzW5A
+ScpFhhwOU0ArgnBSeHLYQEnJd2txaCJAK4KCrBdKn0BJyXiCyJy8QCuE33bzfGRAScm3KB/ZukAr
+hpxFRYRuQEnJvSqYWf5AK4gqfljLc0BJycKMASqiQCuK645Y87dASclNkYNKokAri8k89VPUQEnJ
+KMojpSBAK4xjyP00c0BJyQ8mDbDCQCuMv2rkemhASci8j2fncEArj3fXp/IiQEnIUy9R/SNAK4+u
+072B1kBJx/rjYI0IQCuRr/yybaZAScefvaAJH0Arlg3tKIznQEnHi80oPF9AK5xtBpOX90BJxnd4
+3WFvQCug5+s2RF9AScYqq6U02EAroZqLMSEKQEnGQMn0qzhAK6JgLJCBw0BJxlKtS/4FQCujVRu7
+R2lAScZi7gvhtUArp0bIO22UQEnGxMt2i3dAK6ZW+QsZOEBJx+M/1djlQCulp5yRm55AScf2U67T
+vUArpQl1yod4QEnIB4ezvghAK6ITCcf/3kBJyJYzs4uzQCuiEwnH/95ASct0TAI3EkArm/KeF62b
+QEnMXqMjhhdAK5vynhetm0BJzQUfI7G2QCud4vYD/btASc1YWwrokUArpANeWVGrQEnNnCwbEP1A
+K6bh8s6/FUBJzfu69uFzQCunWRETTbpASc5khpJV2EArqYT0xubZQEnO1o7tbi1AK6096kZaV0BJ
+zvVgac0jQCutKhIiQXNASc/QKyYed0ArqcCD6S4sQEnQcGQWKg5AK6VU4QLktkBJ0J6bYRn2QCuk
+KxVXgBlASdHlJl/mGQ==
+        </geometry>
+</entity>

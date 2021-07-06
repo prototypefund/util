@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="2377"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066296"/>
+        <tag k="de:place" v="town"/>
+        <tag k="de:regionalschluessel" v="120660296296"/>
+        <tag k="name" v="Schwarzheide"/>
+        <tag k="name:prefix" v="Stadt"/>
+        <tag k="population" v="5679"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q584474"/>
+        <tag k="wikipedia" v="de:Schwarzheide"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

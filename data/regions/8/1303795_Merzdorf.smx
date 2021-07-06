@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062336"/>
+        <tag k="de:regionalschluessel" v="120625211336"/>
+        <tag k="name" v="Merzdorf"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q545967"/>
+        <tag k="wikipedia" v="de:Merzdorf (Elbe-Elster)"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAUkArHOEkcqYPQEm21hfPKZ5AKxyOIm0SUkBJtaK508vEQCsa
+0OIFQzZASbVnTezy3UArGyhY5J2kQEm0em5bJ25AKxjJxbFPmEBJtFxiAKYYQCsZKEZwJtlASbPO
+dGy5ZkArG0wGaM/NQEmz3FoIihJAKxt9VZY0ikBJs6t0jXCWQCsbArC0aFJASbOLGaQV9EArGZp6
+ailpQEmzfxtpEhJAKxrQisduv0BJsvk5PGGwQCsasUSxCfhASbK3oBTd3UArGw6ySmqHQEmyS5YA
+h+VAKxyr9A8w9UBJsXzvPuecQCsh3dYJjHBASbEch/YDJ0ArIamyFZFhQEmxDm2BDNtAKyE9HZfA
+e0BJsO6rQ+YJQCsg6xPfsNVASbDkUHcQ2EArILLO9MU5QEmw31jAi3ZAKyAmremytkBJsNdvvf39
+QCsfJ0/QIexASbDGwseQTUArHpoU6ZwQQEmwu01IiC9AKx2IHXBTT0BJsJp9xSe9QCsc2zRunJVA
+SbCE7uepyEArHJ8K8qJJQEmwhHfJZTlAKxtlWSAsxkBJsIgvDgqEQCsafWB97xlASbCK4x1xKkAr
+GhyKekHlQEmwi9CDOrJAKxoAjps41kBJsIvSMLncQCsZURPuyk1ASbA6f1fO9EArGRIfvTSpQEmw
+HasLseVAKxielYHc5EBJr+KrW2L9QCsYF6iTMaBASa+XmeUY9EArF+cfXmoYQEmvmJ+ellhAKxft
+rRck30BJr3eFcpsoQCsXmL3Rh0ZASa9C0uNnQ0ArFceAXLGxQEmvSK0X+59AKxUQjRX9mEBJr5fr
+Q7BZQCsVBslH3Q5ASa+dD2/fjEArFNOCyXN8QEmvvRqoIfJAKxSkY/f3HUBJr8f9WjNSQCsT/9e8
+FBhASbAIqfKtMUArE2dkkyePQEmwQxAgCLRAKxNmXtmqK0BJsErf+CK8QCsTgTonQztASbC61VOE
+C0ArE3tXjzMOQEmwvv+Er/1AKxLDXo8BkEBJsMS9M9KVQCsR+d9Ujs1ASbC/R6kL/UArEXSwrATW
+QEmwu1+8/vlAKxBjeHVco0BJsLfSacS/QCsPzH0btJFASbC7ulXRw0ArDZZFUULoQEmwykYJz4xA
+KwzjOfab00BJsMXPgomyQCsL79AHE/BASbDCW1nC6kArDA/YuxeYQEmw0hACrIJAKwyR5XAxwUBJ
+sPreWA+LQCsMp772SnRASbEeS0Sh8EArDJLnzrDSQEmxWSvrQFVAKwx355gqLUBJsYANAJmDQCsM
+PCLF/aVASbGc7eHwSkArC+BR5M8iQEmyDsqeHmNAKwtjPOY6XEBJskSlS36DQCsLPSlWOp9ASbJj
+vT66UEArCyqgvXpJQEmyy2n2Pd9AKwsF4BPRbkBJsyzKY2YBQCsK/+lZy01ASbNGr+e5uEArCtAL
+Ra5gQEmzhqj8DSxAKwqclc1cPkBJs6ti77lhQCsJZDo8O/BASbOkXGs64UArBwktpit4QEmzpMpP
+RAtAKwcItNpnwEBJs6hcqvvBQCsGrFBVgulASbOxYg07UkArBRx95QgtQEmzso5dJXVAKwZsrahE
+V0BJtFy143w7QCsDmX0UJ9VASbW2JpgaPUArCsYl6Z6UQEm2FP9rhYpAKw372gCR9kBJto8wiguH
+QCsQ0pEx7AtASbaidrftQUArE2wZLc5vQEm2nAIppetAKxhkNFz+3kBJtsN9mLITQCsbSWCcIgpA
+SbbRb8m8d0ArHOEkcqYPQEm21hfPKZ4=
+        </geometry>
+</entity>

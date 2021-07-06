@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12064053"/>
+        <tag k="de:regionalschluessel" v="120645403053"/>
+        <tag k="name" v="Beiersdorf-Freudenberg"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q581980"/>
+        <tag k="wikipedia" v="de:Beiersdorf-Freudenberg"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

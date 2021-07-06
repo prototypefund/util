@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="boundary" v="postal_code"/>
+        <tag k="note" v="14770 Brandenburg/ Havel"/>
+        <tag k="postal_code" v="14770"/>
+        <tag k="postal_code_level" v="8"/>
+        <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Postleitzahlen_Deutschland_2010"/>
+        <tag k="type" v="boundary"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAMEApIeRI6lSdQEo2NNNGY5FAKSDivc/Zx0BKNcLQyohPQCkf
+l8jfAYJASjWLEhdZuUApH5vISALOQEo1Qq36ea5AKR22KRxY/EBKNSAItAOoQCkdQo4aCZZASjT8
+M8KlK0ApHSO2vm2OQEo0wUkLC8xAKRvPC2tuDUBKNH9YpbODQCkZdmGGLNVASjQzJPB6UUApGCHR
+Cx/uQEo0EP1+RYBAKRQC6OiMRkBKM9wOiS+/QCkRe1/yrt5ASjOqbf0znUApD7yrFpmfQEozfUWl
+/H5AKQ+HbUcrN0BKM1WlTgLCQCkPZsODd+9ASjLdwDoXU0ApDorxYCoMQEoyl+tDsFlAKQ4JBjj/
+JUBKMoZTa7ffQCkMAH+BwF9ASjJ8dMWkukApCxUlKzKzQEoyb+whJepAKQXrdFfAsUBKMbCYuZ/J
+QCkDcbVPAcZASjGozsDC00ApAL6/w8/OQEoxqUrnhN9AKP8jF1w9F0BKMcQOuCmnQCj95244wr9A
+SjG/gLPvhkAo/LLfu7zaQEoxozeoDPpAKPtGXNujKUBKMarmyPdVQCj6DoQnQY1ASjHUmHMo7EAo
++AZiGdCLQEox1XG2/IFAKPDlNKKe/EBKMcL+FvG0QCjsIR80eK1ASjG+l3/j5kAo7ZKFqSHNQEoy
+782C1TJAKPBhEmmPEEBKM1jMSfAOQCj1kq3tDbVASjO7voePrEAo9eP4YnzNQEoz10Ga1QNAKPb6
++FlCkUBKM9Uumx3+QCj3roaQqFlASjQpzwZi8EAo+824hRcrQEo1DNhVlwtAKPyiH3oYy0BKNSDx
+6A9IQCj92Vp5yRlASjU9tJZ1IkApAFsA15ZUQEo1Zs2UculAKQxYl3DKbUBKNg8QPjulQCkP/kvK
+2a1ASjY+wdyuwkApEqOBeegjQEo2YVjga+ZAKRVJ0QRp8kBKNndAqT17QCkXcS8XRMBASjZ+pSGN
+GEApGn2xBcbpQEo2eIBEXf5AKR2FBY3eekBKNmguvYKtQCkh5EjqVJ1ASjY000ZjkQ==
+        </geometry>
+</entity>

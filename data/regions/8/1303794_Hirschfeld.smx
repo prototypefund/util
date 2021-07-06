@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="34498"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062232"/>
+        <tag k="de:regionalschluessel" v="120625211232"/>
+        <tag k="name" v="Hirschfeld"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q178656"/>
+        <tag k="wikipedia" v="de:Hirschfeld (Brandenburg)"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAPkArTEO5kzQkQEm2ndE2vtlAK0yK7Fesj0BJtwESTrcdQCtQ
+8vs0vyRASbcZVGTcIkArUJVRNXy5QEm33nZCfHxAK0knssxwhkBJt73jJP3mQCtI0X4MdVlASbe8
+sqNV20ArSGwYVw7aQEm3YnA3oIBAK0fKXYbD1EBJtuJz/f6eQCtHSKS0f89ASbbv0bSTGkArR6dy
+oDCMQEm2dPtUn5RAK0Uvf0mMO0BJtmuCLxnJQCtFAQGHv3xASbaaXeS3pUArQl5GBnSOQEm2jGuz
+rUFAK0L042xLgkBJti/8Rw3bQCs58K8qJJZASbWVBAijPEArOEOy3Td+QEm1iTCVygFAKzVZsHV+
+MUBJtIx5H6aOQCs01Q66reZASbNg0PsvtkArM3RlLKqDQEmywMwNiixAKywQ0QibsEBJscG7INLe
+QCsraLrUfMRASbE2606YE0ArLMTN+so2QEmxNy5qdpZAKy1eQ4I1z0BJsTNQj2SMQCsuF9XfmwVA
+SbEukDZDiUArLOKO1fE4QEmw5K5q4fZAKy4vtCKx20BJsJlKv0DzQCsurm/qc6ZASbBxSRh3xkAr
+LxqO938oQEmwTwvWzddAKy6rjbfkB0BJr/xqSUn2QCsvqWnxNWJASa/4MP6ljUArMFxNB/CPQEmv
+74pm9q9AKzDpcHGCI0BJr+sut6NwQCswQ2kLXFRASa9Kq/W8sEArMNod7ieQQEmvRO/0GUJAKzFw
+cYIjW0BJr0OPockTQCsyP+QbnetASa81DFFHGkArMsOa9ONsQEmvMLCh89tAKzMzQ/oq1EBJrzQP
+0gUbQCs0qrilzltASa8/LGW5mEArNO45Lh73QEmvQU2oKX9AKzVCwG7weEBJr0WpV3y+QCs19YH3
+vGRASa9FyuVsAEArNwYVw7ajQEmvSmmwncJAKzfn5VcHTUBJr0wNHsx0QCs4yZABamNASa9cb2yf
+ZUArOUO1YXY8QEmvX2ny4uFAKzntKIznA0BJr1sPGk82QCs71j2O1shASa9YkZGNW0ArPATFYZ6A
+QEmve8mk+iBAKz+AbXipX0BJsEjOpergQCs/9PNcg45ASbEOA87BmUArQvfMVNfIQEmxdYC1nQVA
+K00oScslLUBJscS1pxZaQCtM4kUEFg9ASbJgYJLnzkArSUJpMRwBQEmy89b80XdAK0unJXNXD0BJ
+tATgOZEbQCtRdzTqw1dASbQzSQKoUUArUau6LY3XQEm1AAa1/KZAK1ATTpFdi0BJtYY6QURuQCtQ
+bWEsasJASbY2qQl5JUArTqqVal/wQEm2Q3Fu2CVAK0xDuZM0JEBJtp3RNr7Z
+        </geometry>
+</entity>

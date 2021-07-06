@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066120"/>
+        <tag k="de:regionalschluessel" v="120665607120"/>
+        <tag k="name" v="Guteborn"/>
+        <tag k="population" v="528"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q588863"/>
+        <tag k="wikipedia" v="de:Guteborn"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAIUAr7mosxIQpQEm0DvcTyDRAK+ndUyzNvkBJtH7TRLYSQCvl
+K6t/dStASbQOAiFCcEAr3vfI+dl1QEm0F5Hs/O5AK9jWSiQQgEBJtPkwAiZLQCvSJfcKjfhASbVS
+zgMtskArzWyQTBL+QEm2ExZdOZdAK8rxnI/uH0BJtjskmTx8QCvK/vsdQjBASbatsX6SrUArzBeN
+uz8FQEm3FdLQHAxAK8rxnI/uH0BJt21Jr3Z6QCvKXqP6RaxASbfAlLAlzUArxYQQm1i2QEm3tBbz
+YYxAK8VBQemvW0BJuEwXL8duQCvJRhFcSNZASbiOtueIOkArzJ0rHpG7QEm4d9AbNeZAK8/6ghG9
+l0BJuFbuI16qQCvWd7pLwMhASbhf2zHqXkAr2O3X30+GQEm4MzkScEVAK+Li9S0+JkBJuEmJts2H
+QCvsMqwktphASbfbC1PxGUAr67x8HLEQQEm3qHoHLRtAK+/xkagzkEBJt2ptXCPtQCvwmST/k8lA
+SbcWioYAX0Ar8Ev0yxiXQEm2urwpEJpAK/F6TM04LEBJtmdSHrDFQCvzHgFyxsdASbYWa3xP3EAr
+9F0PpY9xQEm1+OwPiDNAK/RtmjdOS0BJtbHP8UR7QCvyKxBPApxASbTeWb0KuEAr8cVMpcsAQEm0
+p/murSdAK/Mr7O3UhEBJtFQXr0kuQCvuaizEhClASbQO9xPINA==
+        </geometry>
+</entity>

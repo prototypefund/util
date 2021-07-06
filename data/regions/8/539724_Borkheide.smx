@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12069052"/>
+        <tag k="de:regionalschluessel" v="120695904052"/>
+        <tag k="name" v="Borkheide"/>
+        <tag k="name:ru" v="Боркхайде"/>
+        <tag k="name:sr" v="Боркхајде"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q624241"/>
+        <tag k="wikipedia" v="de:Borkheide"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAR0ApwkACTo7ZQEoa2dDBThNAKcIgRsdkrkBKGtf+WTbTQCnB
+utBLBo5AShrOuTYXE0ApwLWju1uLQEoatX+pLYtAKb5dA+cVTUBKGoZ6AiSdQCm98IbmOK5AShp+
+xq98WkApvakXu95oQEoaelAoNoBAKbrFx/XNd0BKGmnKnvUjQCm6wZmS451AShpqOVm94UApusGS
+3Ob2QEoaabJLQUdAKbXI4K8B4EBKGlD4QBgeQCm1hvmD5PxAShpOAD4TYUAptEYIIg1xQEobJn7v
+yihAKbPbJ9li3UBKG6DYUjwNQCmznwvJYd5AShxksIPA6kApsoL8nyJvQEocZgXuVopAKbN+IkTO
+ZkBKHMBu8HijQCmzKQ4WQzhASh1Rk3CKrEApssHjZL7GQEodUHExm4NAKbKC1Fs2h0BKHXZKCTiO
+QCmzAUL2HtVASh141P3ztkApst2EqvULQEodlzzIB2tAKbLTZkQBt0BKHaH3NiziQCmx0AjBb6FA
+Sh60/nnuAkApsRfMpV+gQEofbP1ZXJJAKa4OJjNwcEBKHyF9/wlgQCmt5sZzFnhASh+uswZSKUAp
+sD/RpychQEogGR+LtoJAKbCfPUeJK0BKH+fab0y/QCmxBsyi22FASh/FM3tXj0ApsmzmsyfgQEof
+ebJzhTNAKbLa3t5HSEBKH27eBCy1QCmzeQJKXRtASh9qkW5R7UAptAKK9LsoQEofYV0SKc5AKbV4
+HHFPzkBKHz4tYjjaQCm2OnOZVNBASh8maSBVCkApt57IrYNbQEoe/nW8RL9AKbgMN0Xna0BKHu3r
+KoXlQCm4U1yeZohASh7bn85nAEApuTemX3q6QEoehuwX669AKbm+pBUdnkBKHf0hKG60QCm9wTka
+08FASh5qEsNRI0ApvqnSzMEOQEoeC0+/WvRAKb4drmawOEBKHgSzw+dLQCm/Djl+ps9ASh2k3Zp6
+akApwwtT8RjcQEod0hKG60FAKcN2N5TBw0BKHZk6zwjnQCnEef0cH/FASh2kQ0DHcEApxNPWrEmf
+QEodcI+1FElAKcWkmNEcvUBKHXeh+AzsQCnF5+OpiCRASh1OJtSAH0ApwHnzCyT3QEodGTLW7OFA
+KcFBwWtvukBKHOG47Rv3QCm+4gOVtrZAShzK+mS1jEApvKoKKiVtQEoctqOVm95AKb01V9ChbUBK
+HJJGvwEyQCm9uCBtXdFAShx1pMfLBUApvelHVtamQEocbUFL+qpAKb60D2alUEBKHFRxcVxjQCm/
+GNCxXdtAShw3owR8ZkApv3Yw3sUdQEocJctro71AKb/6Ber7jEBKG+XSV1BJQCnANM8UpalAShuy
+EV+j1EApwFQYhgjDQEobfztJgipAKcBwShT3CEBKG2LPAjEyQCnAnlkb+whAShtRkOxL7kApwOaO
+PvKEQEobNdTOIw5AKcFLqiJ92UBKGxyjpLVWQCnBrEcbR4RAShsGKDgtbkApwfWMCLdeQEoa83gy
+QMVAKcJAAk6O2UBKGtnQwU4T
+        </geometry>
+</entity>

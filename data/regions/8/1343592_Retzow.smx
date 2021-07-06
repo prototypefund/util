@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12063256"/>
+        <tag k="de:regionalschluessel" v="120635302256"/>
+        <tag k="name" v="Retzow"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q527924"/>
+        <tag k="wikipedia" v="de:Retzow"/>
+        <geometry type="wkb-base64">
+AAAAAAcAAAACAAAAAAYAAAABAAAAAAMAAAABAAAAPUApa6nVUP/NQEpT3grishFAKWoFbtTJ8UBK
+U5n+Q2deQClnHNorWiFASlMUy2kffkApZNB/CPSbQEpSsEJSiudAKWGJmJqWGUBKUiW0xW8KQClh
+bB42S+xASlIovzvqkkApYQcWdLaLQEpSIhyKekJAKWAG3kCSl0BKUh+wn2+cQCld4NnKC1FASlIh
+R3hklUApXTBWCSERQEpR/+veCgxAKVzhO++aV0BKUfWvRCXJQClchhzlExRASlHkdV/+bUApW/ZQ
+U9VqQEpRyYlLbbxAKVl5Sm65G0BKUVRzHtuNQClVCOWBz3hASlCS3b212EApTYbAeQFzQEpPSPRl
+mApAKU53mL3Rh0BKTyoDCMj8QClPyWHeQWlASk9OQNWzJUApU7f51vETQEpOxjk01PRAKVQipG+2
+cUBKTrUQF6U4QClUYW0CYdpASk6q9rkvYUApWmwdX4xXQEpNnoZoZG1AKVrlwz3X0kBKTbHYVMBL
+QClj9xmncPJASkwx4EzcUUApZgM7HeNAQEpMff/gH5BAKWj/Q0GeMEBKTNKdxyXEQClrrAJR6ddA
+Sk0XcTXNQUApbWynyQdFQEpNUWssnsRAKXCGZrbuPkBKTZ550yq1QClvHLidat9ASk4w35vcakAp
+ab6F4iywQEpQP3Vg1S1AKWiyGcMfpUBKULEVtyFqQClnijFGyelASlEuVX3g1kApZq9KBQbQQEpR
+C3V/CB5AKWYY77sOXkBKUPsp12neQClkErrtpzhASlF0nIoO4kApYzM56S/aQEpRhLGrCFdAKWQS
+uu2nOEBKUc2ItG8IQClkGyvVcOBASlHoKHLl0EApZljtAR+6QEpR/q+d591AKWd8yKh63kBKUfsh
+c+4OQClo5Dj6HJFASlHsy2/Ve0ApaUmAfJIiQEpSFq6YLl9AKWl++rHiZUBKUoRPhXlRQClrgiu+
+yqtASlKFnxDR30ApbRcrlbAAQEpSgQOgnnBAKW2/6Y97MkBKUnS55kA7QClu5H3Dej1ASlKP6sQu
+mEApb6O9CQpqQEpSXRB8TwZAKW+qfRasFEBKUjMUKYKwQClwJ1xlW6RASlIcYV+WaEApcYL9deIE
+QEpST5SSyZtAKXHAw6oOXEBKUtXNJo7gQClw3O9Zv49ASlPGBgkufUApdJjRHL2mQEpUUkb0sRdA
+KXSyHR4d+EBKVGDANDgWQClw1yr0oFBASlTB0ccHkUApcJ6LcOHqQEpUtmcvugJAKXCFp3RNr0BK
+VLa4jlFnQCltzpsDJiVASlQ7ivCJakApa6nVUP/NQEpT3grishEAAAAAAUApXZc9nscAQEpQAwZE
+vZ8=
+        </geometry>
+</entity>

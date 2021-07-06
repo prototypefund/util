@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="34496"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062196"/>
+        <tag k="de:regionalschluessel" v="120625211196"/>
+        <tag k="name" v="Gröden"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q551445"/>
+        <tag k="wikipedia" v="de:Gröden (Brandenburg)"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAOkArHOEkcqYPQEm21hfPKZ5AKxyOIm0SUkBJtaK508vEQCsa
+0OIFQzZASbVnTezy3UArGyhY5J2kQEm0em5bJ25AKxjJxbFPmEBJtFxiAKYYQCsZKEZwJtlASbPO
+dGy5ZkArG0wGaM/NQEmz3FoIihJAKxt9VZY0ikBJs6t0jXCWQCsbArC0aFJASbOLGaQV9EArGZp6
+ailpQEmzfxtpEhJAKxrQisduv0BJsvk5PGGwQCsasUSxCfhASbK3oBTd3UArGw6ySmqHQEmyS5YA
+h+VAKxyr9A8w9UBJsXzvPuecQCsh3dYJjHBASbEch/YDJ0ArIfug9a5tQEmxI1cdHUdAKyLhYoYH
+FUBJsThrgVhaQCsjvq/Tl8JASbFNfjgUQ0ArJAKlzK3DQEmxXUOn9X1AKyYcwConG0BJsUcc9QNM
+QCsm0oVzcedASbFEj3wJZkArJxT850bLQEmxQRSdRfZAKyg1x2IpwEBJsUCuRfkIQCspbF33LBxA
+SbE8a8EZOkArK2i61HzEQEmxNutOmBNAKywQ0QibsEBJscG7INLeQCszdGUsqoNASbLAzA2KLEAr
+NNUOuq3mQEmzYND7L7ZAKzVZsHV+MUBJtIx5H6aOQCs4Q7LdN35ASbWJMJXKAUArOfCvKiSWQEm1
+lQQIozxAK0L042xLgkBJti/8Rw3bQCtCXkYGdI5ASbaMa7OtQUArRQEBh798QEm2ml3kt6VAK0Uv
+f0mMO0BJtmuCLxnJQCtHp3KgMIxASbZ0+1SflEArR0iktH/PQEm279G0kxpAK0fKXYbD1EBJtuJz
+/f6eQCtIbBhXDtpASbdicDeggEArSNF+DHVZQEm3vLKjVdtAK0RkWUXsc0BJt6j4si3lQCtFQsp/
+63JASbeLFx/XNkArRLdDzovpQEm3Lkjopx5AK0EZhDWERkBJtyGnGbTdQCtBL26ClJpASbcJESC5
+tEArP48YNlerQEm3D+VQUVFAKz8zw3vrM0BJtohpxm03QCs62d/axopASbZW521iA0ArPJejH1RZ
+QEm4AJ20sU1AKzmUNoNJzEBJuEqIuk5FQCs1UHY6GQBASbhqtKnAWEArNHJwX+RsQEm4W+J+5blA
+KzGv1G6BvkBJuBjYPhoXQCsvVfXV2pJASbfspbAoUUArLYxFHUCCQEm3ywl+LgNAKymzSkTHsEBJ
+t4KzpAbbQCsfX2kcI0xASbat1z4/1kArHOEkcqYPQEm21hfPKZ4=
+        </geometry>
+</entity>

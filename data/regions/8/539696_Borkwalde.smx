@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12069056"/>
+        <tag k="de:regionalschluessel" v="120695904056"/>
+        <tag k="name" v="Borkwalde"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q623947"/>
+        <tag k="wikipedia" v="de:Borkwalde"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAJEApnsMo3xxaQEoh5tWMju9AKZ6oYbN5PkBKIO2o5Wb3QCmg
+VdonKGNASiDrHsdrZEApoC3qHhZrQEogCv83gyRAKaATwKcknEBKH/dTiRQQQCmgaQcqlqxASh+Z
+LIxQBUAprGnhRSnVQEofrFOwgTxAKa3mxnMWeEBKH66zBlIpQCmwP9GnJyFASiAZH4u2gkApsJ89
+R4krQEof59pvTL9AKbN1tLgDEUBKICeGVsa2QCmyiVFM+a5ASiCsKOhWlkApsk/vK5xmQEogyWK1
+AP5AKbE7m7eBC0BKIW79Dd04QCmtTCmkPjhASiFoEjgQ6EAprNuZGGpaQEohagiyVilAKayCO68C
+t0BKIsHbAUL2QCmsV8CxNZdASiLB8NC4FEApq/336AOKQEojXF98Z1lAKasG0atY3kBKI14RLU7t
+QCmo2OKExPZASiNiGdCLnkApqHyBWt5zQEoi/VHP1mxAKalpdQ6f1kBKIvjjrAxjQCmpdqf9CatA
+SiKkbgjyF0ApqUvjLWFiQEoiUUp1bxhAKahdSLBy+kBKIX6w4Ac8QCmoV6J+RKlASiF7wUF+T0Ap
+p41WlTgLQEohfTkQwsZAKaX3Nizit0BKIYg9UMNnQCmkW3ZIW7lASiGM4tHxz0ApopGTOtrHQEoh
+np68GElAKaGaUiY9gUBKIbbETMuKQCmhls7j/kFASiIfz6kgH0ApoB8rPnIrQEoiHx6pOHNAKaAP
+CLF/aUBKIdPlxcIWQCmewyjfHFpASiHm1YyO7w==
+        </geometry>
+</entity>

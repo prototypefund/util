@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="boundary" v="postal_code"/>
+        <tag k="note" v="01987 Schwarzheide N.L."/>
+        <tag k="postal_code" v="01987"/>
+        <tag k="postal_code_level" v="8"/>
+        <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Postleitzahlen_Deutschland_2010"/>
+        <tag k="type" v="boundary"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

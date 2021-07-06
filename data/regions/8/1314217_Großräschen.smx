@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="1400"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066112"/>
+        <tag k="de:place" v="town"/>
+        <tag k="de:regionalschluessel" v="120660112112"/>
+        <tag k="name" v="Großräschen"/>
+        <tag k="name:prefix" v="Stadt"/>
+        <tag k="population" v="8602"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q588844"/>
+        <tag k="wikipedia" v="de:Großräschen"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

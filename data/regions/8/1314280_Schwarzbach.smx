@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066292"/>
+        <tag k="de:regionalschluessel" v="120665607292"/>
+        <tag k="name" v="Schwarzbach"/>
+        <tag k="population" v="653"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q623909"/>
+        <tag k="wikipedia" v="de:Schwarzbach (Lausitz)"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAM0Ar8pc8yAdrQEm9VNOW62lAK+5ADF+J00BJvTxuRVf5QCvt
+vLowEhZASbzUkpPr2kAr7+hNW9NlQEm8s12P/g9AK/DYtuXaukBJvIqLCN0eQCvwyYlLbbxASbxJ
+OgW1S0Ar8AN5MURFQEm8AbyYoiNAK+7gZt2Eq0BJu92sGCFfQCvt+HTxQ6RASbvVUq1L/kAr6cXm
+/336QEm7OdvD4JVAK+dD5gjd9UBJuy4E9gkGQCvlRkcMLgtASbrFBi7uKkAr5R2AQ4c+QEm5zImw
+7kpAK+cW8N1NTUBJucsxwhnrQCvm+Lc2YpJASbl4SpR4yEAr7dqZPioHQEm5QZNIRsBAK+3YYixF
+AkBJuTvyHpXtQCvtuNxVAAxASbgsOUPubEAr7NyOCvAeQEm4AB4y8O5AK+xb67khHkBJt/Khcqvv
+QCvsMqwktphASbfbC1PxGUAr4uL1LT4mQEm4SYm2zYdAK9jt199PhkBJuDM5EnBFQCvWd7pLwMhA
+Sbhf2zHqXkArz/qCEb2XQEm4Vu4jXqpAK8ydKx6Ru0BJuHfQGzXmQCvNjajKjwVASbkDTZJaCkAr
+zTAjtDouQEm5lxpjWJVAK9DXZ1qCLEBJui8O4URTQCvQmym8kexASbrdWQwK0EArz1hwA54aQEm7
+KKU6t4xAK8/2eJfBUkBJuyrPt2LYQCvQTHen10pASbsfehjK0kAr0rO0zdKGQEm7UfdDmNxAK9PU
+/sp12kBJu7ojfNzKQCvWUS3v/VNASbvyO/IelkAr1U/l8WEAQEm8OOX6mzxAK9kjrK1ylEBJvMtu
+/rtcQCvccfeUILNASb1BITJ/r0Ar3gTKahv9QEm9UOQeIipAK9+9YEg/NEBJvTtXxOLzQCvgibek
+RptASb1PlxcIWkAr4mkFfReCQEm9embOazJAK+Kr5PW4fkBJvV818HzVQCvnWDb4upFASb3wEkwy
+3kAr6HNRMHQ8QEm+EW3mjWhAK+n8fms/6kBJvfKSWTN4QCvtNB/CPSZASb3Z0m7NPUAr8GN/K1lK
+QEm9o7L4D3BAK/IoPuNqnkBJvZ/yeS7AQCvylzzIB2tASb1U05braQ==
+        </geometry>
+</entity>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066228"/>
+        <tag k="de:regionalschluessel" v="120665601228"/>
+        <tag k="name" v="Neupetershain"/>
+        <tag k="name:dsb" v="Nowe Wiki"/>
+        <tag k="name:hsb" v="Nowe Wiki"/>
+        <tag k="population" v="1196"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q588897"/>
+        <tag k="wikipedia" v="de:Neupetershain"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

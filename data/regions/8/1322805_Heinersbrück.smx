@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="34382"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12071176"/>
+        <tag k="de:regionalschluessel" v="120715107176"/>
+        <tag k="name" v="Heinersbrück"/>
+        <tag k="name:hsb" v="Móst"/>
+        <tag k="population" v="573"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q574750"/>
+        <tag k="wikipedia" v="de:Heinersbrück"/>
+        <geometry type="wkb-base64">
+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
+LQRFTDprNUBJ6Rp1zQu3
+        </geometry>
+</entity>

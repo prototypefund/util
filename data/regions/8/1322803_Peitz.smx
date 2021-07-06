@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="3949"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12071304"/>
+        <tag k="de:regionalschluessel" v="120715107304"/>
+        <tag k="name" v="Peitz"/>
+        <tag k="name:dsb" v="Picnjo"/>
+        <tag k="name:hsb" v="Picnjo"/>
+        <tag k="name:prefix" v="Stadt"/>
+        <tag k="population" v="4362"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q574791"/>
+        <tag k="wikipedia" v="de:Peitz"/>
+        <geometry type="wkb-base64">
+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
+PKCaPw==
+        </geometry>
+</entity>

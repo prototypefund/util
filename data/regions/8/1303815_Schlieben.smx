@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="3144"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062445"/>
+        <tag k="de:place" v="town"/>
+        <tag k="de:regionalschluessel" v="120625209445"/>
+        <tag k="name" v="Schlieben"/>
+        <tag k="name:prefix" v="Stadt"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q507017"/>
+        <tag k="wikipedia" v="de:Schlieben"/>
+        <geometry type="wkb-base64">
+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
+ubMUAAAAAAFAKsUAsP/nrEBJ3LCgRlwF
+        </geometry>
+</entity>

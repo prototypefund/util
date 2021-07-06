@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="41017"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062282"/>
+        <tag k="de:regionalschluessel" v="120625209282"/>
+        <tag k="name" v="Kremitzaue"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q553231"/>
+        <tag k="wikipedia" v="de:Kremitzaue"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAH0AqnDMGvYljQEnZRpvFw8RAKpwiChYDd0BJ2UA7WXJiQCqc
+AeaKDTRASdk0G5B/PkAqm8HHtgyXQEnZG3uGiRtAKp56Jw2LA0BJ2UXbrGOgQCqfBa2+6oxASdkV
+m3K3rUAqnaELfeKEQEnY6Nv3DDtAKp2yaXQ34EBJ2KH7Z+rLQCqiJc7GohBASdgYG3+4R0Aqpw4v
+bavVQEnXmNstuKBAKqncxj8UEkBJ1wwcbfTQQCquA9jSlI1ASddnYg7o0UAqsD0UXYUWQEnX9ItX
+t3dAKrHy9wMBPEBJ2mXFVrbGQCqyUFqLZtFASdrrFLZwakAqrd3m0IQRQEnb59Vmz0JAKq1GG21D
+0EBJ3cm4RVZLQCqoLU/EY3FASd6Ce2/i50AqompHnHbDQEnepHt062RAKp2ryvSFeEBJ3qz6n23v
+QCqYBgeA/cFASd6xO3bOk0Aql9uCcjWnQEneHfuTibVAKpVCb+cYqEBJ3dtZV4oqQCqM9VPUk2pA
+Sd3nGKhtckAqibJzhTLaQEndZdVG7tJAKot51a7znkBJ3Ch89sukQCqIAHIVxxFASdty3JZubEAq
+i+Hd1gmMQEnaghr30wtAKpPEwWWQfUBJ2iPF1+YFQCqXJgBEyV1ASdlQwAv0KkAqnDMGvYljQEnZ
+RpvFw8Q=
+        </geometry>
+</entity>

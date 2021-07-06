@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="33517"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066240"/>
+        <tag k="de:place" v="town"/>
+        <tag k="de:regionalschluessel" v="120665606240"/>
+        <tag k="name" v="Ortrand"/>
+        <tag k="name:hsb" v="Wótrań"/>
+        <tag k="name:prefix" v="Stadt"/>
+        <tag k="population" v="2138"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q572503"/>
+        <tag k="wikipedia" v="de:Ortrand"/>
+        <geometry type="wkb-base64">
+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
+jkBJsvdzaYQoQCuHer01gBRASbOc8uptxw==
+        </geometry>
+</entity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="boundary" v="postal_code"/>
+        <tag k="note" v="01993 Schipkau"/>
+        <tag k="postal_code" v="01993"/>
+        <tag k="postal_code_level" v="8"/>
+        <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Postleitzahlen_Deutschland_2010"/>
+        <tag k="type" v="boundary"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAL0Arvo+6HMbgQEnDYtJdL4ZAK8CcV7n7OUBJw1KyVHuCQCvG
+mryvSFdAScP3Mfskz0AryUJ9UxH1QEnD8ZGoM5BAK8zkWogL0kBJw6MBIWgvQCvPDFL0mZpAScNU
+SS1we0Ar0J9vnHANQEnDR9WBpzRAK9HYXtFGr0BJw9D/YXSPQCvTpd/4+XtAScQmm3U77EAr1k+8
+1rWEQEnD2uFihgdAK9U9U0elsUBJwz9nHhxKQCvUvx23oOtAScKPspAKpEAr1GgcSQviQEnB47Hr
+n/ZAK9NoIHrJykBJwLKyb1N1QCvS1K8ZXZ9AScCFE9CXXEAr0RV+FoZUQEm/+rHiZbtAK8wLnOw0
+cUBJvxLySwuXQCvJjRiB1wVASb8hMajveEAryTxa+iGZQEm/IvJzT4NAK8knvN1rgEBJvyNx9Q/i
+QCvJFN0G1rNASb8j0m0fvkAryOu4Sl7JQEm/JNMeH6VAK8hL/twTkUBJvygyTjDlQCvHDLr5ZbJA
+Sb8vUf0i1kArxUm5h3WqQEm+yLG1GVJAK8LqHT+r50BJvsHyfjc9QCvCXNhIKxJASb5wclji8EAr
+v5H6aOdKQEm+EfJwy0RAK72Lu4qFKUBJvjOytPOSQCu8feGtLqFASb6UchJsE0ArvCZaBtyTQEm+
+4fH3/4BAK7vPVT1JNkBJvy+ydTKyQCu7m7eBCy1ASb/nMqmgeEArvUraGOWqQEnAEvJLC5dAK7u5
+oKAeGEBJwK+yCdLnQCu6Qk2CadJAScDsnHXs7EArtzu04fR8QEnBalKEMVJAK7gQXvLUnkBJwa9y
+SPK4QCu1bHwqHQpAScHA0sOG00ArsqN0De7WQEnB2FI8DPZAK7HE1zUFm0BJwsayAJisQCu01ZTy
+auxAScKoklrg90Art+6Ae7tiQEnCnDH6Tg9AK7jJGpCk/kBJwvLx+oO/QCu647sl21xAScMMEYY6
+QUArviw3lm9CQEnDHNHH3lBAK76PuhzG4EBJw2LSXS+G
+        </geometry>
+</entity>

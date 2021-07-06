@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066168"/>
+        <tag k="de:regionalschluessel" v="120665606168"/>
+        <tag k="name" v="Kroppen"/>
+        <tag k="name:hsb" v="Kropnja"/>
+        <tag k="population" v="674"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q589543"/>
+        <tag k="wikipedia" v="de:Kroppen"/>
+        <geometry type="wkb-base64">
+AAAAAAcAAAACAAAAAAYAAAABAAAAAAMAAAABAAAAVkArqXf3iGI5QEmz7uN4Cf1AK6O2SPzJFEBJ
+s7FdBL3VQCuhT0uXrgdASbPa+2O5DUArn+eUzy99QEm0cSyTBgFAK5wY3UaXlEBJtJrK8gE5QCuY
+egqIGT5ASbUBfa6BiEArlQYrkyvBQEm0UMrzrrlAK5ARA12CkkBJtBg+uyayQCuP+lnN0a9ASbPR
+jtNs+kArjWkadc0LQEmzrjYI0IlAK41SVg4pjkBJsvdzaYQoQCuODD+pYztASbIJc0ZIuUArkA0e
+zHPhQEmw79KLUq9AK5DiZpIFUEBJr1UhmoR7QCuRkV5htSZASa9h7IQiOUArkaQ63UugQEmvYosP
+kxtAK5KiNUmN6EBJr2qKuFVGQCuTAPXJRVhASa9sDJiUt0ArlRhxEA2UQEmvdIk+2INAK5YpS1Lk
+qUBJr3Roh6jWQCuWkNP4OjlASa93Sro4dUArl9pr8cCiQEmvh0/q+d5AK5mZcVWtsUBJr59MYQGi
+QCuZp5k2nUtASa+gDHphxkArmzxqE5oQQEmvtEyjRsFAK5vl3T8K10BJr7ct/xbMQCudVNA77RZA
+Sa+3Dh6mtEArnYabkBPfQEmvtgoSqHlAK530se4kNUBJr7QKXifTQCueW/d3m0JASa+siWBmckAr
+nszOekv2QEmvoM5BQRNAK5/T9bX6IkBJr5Bsyi22QCugIjJZ719ASa+JDjEbK0AroO3bOk3ZQEmv
+dcqHeC9AK6I2qeA4ukBJr2EMilH+QCuilMKaQ+NASa9YLBEAAkAroqvrq7UlQEmvWCwRAAJAK6Lp
+bsQC+UBJr1gsEQACQCujNIYZihRASa9QzKEt4kAro3aSLZSNQEmvT0rA7nJAK6O2GgLghUBJr0r7
+ptTrQCuj+Fhr0eBASa9XtPK7dEArpIxJTv5qQEmvcbYlwVpAK6VWKdhAnkBJr5eCaCSsQCunGrc7
+axBASa/eyvwSNEArp0fy3diNQEmv5fS7/x9AK6fj7/8A/EBJr/4bI3H1QCuorZDHYwBASbAXVLBb
+fUArqbzK9wm3QEmwJn1CSv5AK6p+GQqTAUBJsCxU8qCcQCurhLoOhCdASbAyPJMuRUArq5ooNNJv
+QEmwMg9GxOBAK6u2T7LFukBJsDZvJ9YIQCuro9s7+1hASbA/Krg6bkArq4fOlfqoQEmwSAsxjGpA
+K6uH8CPp6kBJsE9qoV6KQCurmvGIbfhASbBYKmOA2UArq8DPaIh/QEmwXg9/z8RAK6vv2hgO6kBJ
+sGPtD2JzQCusDup+jntASbBnKrGEckArrESkdL7uQEmwbKzRhMJAK6xayyexH0BJsG/JvHcUQCus
+mZBfXjRASbB4cFQl8kArrIbVcbb8QEmwhCqci7xAK6xOvCW1nEBJsJAPrRwtQCusTt2zpN1ASbCX
+TY7/DEArrGHfGCjrQEmwoC4IUQdAK6wN/EIFXkBJsMrN7wu8QCurqAZD5t9ASbDfQ8fV7UArq6a2
+uI5RQEmw34vsMe1AK6uPOcRG7EBJsOFtbcGkQCurEav57m5ASbDsiSq2jUArqvqGQ3t/QEmw98qn
+WJ9AK6rkoqxn0kBJsPw+ql+6QCuq4ZuQ6p5ASbD+zdDYy0ArquGbkOqeQEmxAs052hZAK6rhvR7Z
+4EBJsQdKdxyXQCurD+BH09RASbEXq+4v9EArqxcVxjriQEmxGil28c9AK6sWsRxtHkBJsRnrY5DJ
+QCurJC3csh1ASbEeyEIjkUArq1NddSYcQEmxHshCI5FAK6zHCGetjkBJsdG37hh3QCupyTE22bFA
+SbJe6Zpi7UArqutH4hbhQEmzVRDTjNpAK6l394hiOUBJs+7jeAn9AAAAAAFAK5Zd7sigF0BJsTk9
+OG+z
+        </geometry>
+</entity>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="34085"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12061017"/>
+        <tag k="de:regionalschluessel" v="120615114017"/>
+        <tag k="name" v="Bersteland"/>
+        <tag k="population" v="869"/>
+        <tag k="population:date" v="2017-03-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q584757"/>
+        <tag k="wikipedia" v="de:Bersteland"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

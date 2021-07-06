@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="1094"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12071044"/>
+        <tag k="de:place" v="town"/>
+        <tag k="de:regionalschluessel" v="120715102044"/>
+        <tag k="name" v="Döbern"/>
+        <tag k="name:prefix" v="Stadt"/>
+        <tag k="population" v="3250"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q544801"/>
+        <tag k="wikipedia" v="de:Döbern"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

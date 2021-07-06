@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="4599"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062492"/>
+        <tag k="de:regionalschluessel" v="120625202492"/>
+        <tag k="name" v="Tröbitz"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q528883"/>
+        <tag k="wikipedia" v="de:Tröbitz"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAMUAq7GEwnH/+QEnOOuxlGIhAKus7ZFocrEBJzQXMyJsPQCrr
+PMtiaYFASczrSz0VNEAq6nFYMfA9QEnLRGPdHypAKueth40nm0BJyvHt7oWEQCrkZP2wmmdAScrd
+UKiPAEAq6EopGP39QEnJznsitg1AKuXJcPe54EBJybY+FQ6FQCrhz12gxQdAScpP0PireEAq4Uuj
+bIEyQEnKjjdlx9tAKt/DdTU2QkBJyr791zDUQCre6haJr0BAScriw68W2UAq3nir40g5QEnLGzoY
+KcJAKt1kEfhQCEBJyxAXpTgzQCrdPKTL/MNAScsu7VNVEUAq3M8N76zLQEnLNYbKifxAKtsYvI9n
+50BJy1S9x3ZLQCrZ5VH+0FVASctigP6YIUAq2OETq65vQEnLabP4wHBAKtdZpLcEDUBJy1xcIWkG
+QCrVuIvNKDxASctOXjHkfkAq1LjTGsSnQEnLScig7iFAKtPYLine9kBJy0yJRY5/QCrTWow9kIRA
+SctPQK/zeEAq04b+jGJ5QEnLpzmVTQNAKtNBl3oEqUBJy6nAWEpEQCrTgQR3XgVAScvYNAkcCEAq
+04RH+L0VQEnL4Bmwqy5AKtOxbB42TEBJy+ZzZv/pQCrUCei3Dh5AScv4vsMezkAq1JLdvbXYQEnM
+HnYMzJdAKtSNqaFOmUBJzFo63vkfQCrURBriA5VAScyRIE5UIUAq1CdmdlaeQEnMrBTGYKJAKtSc
+Hq8XsEBJzL38T3FXQCrVE6hTcMBASczKNvBXFUAq1WffDGpxQEnNEBh798hAKtVJGHfGCkBJzSO+
+SynKQCrUpfn6LIFASc1juDY800Aq06BlZbVmQEnNdWk4qL5AKtFvtZqBIEBJzXPlquokQCrRQlG0
+J7pASc2hE+FeVEAq0UaGzQ47QEnNzS7yW9JAKtAq2PGePUBJzjw/S29qQCrXGRqDOQVASc5SZ6vg
+xEAq2/qMIriRQEnOv5aDZKRAKuJda+vhZUBJzvOAlbyVQCrnceDt7AFASc5R/tBVF0Aq7GEwnH/+
+QEnOOuxlGIg=
+        </geometry>
+</entity>

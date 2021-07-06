@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12068417"/>
+        <tag k="de:regionalschluessel" v="120685805417"/>
+        <tag k="name" v="Stüdenitz-Schönermark"/>
+        <tag k="place" v="municipality"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q572032"/>
+        <tag k="wikipedia" v="de:Stüdenitz-Schönermark"/>
+        <geometry type="wkb-base64">
+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
+9w==
+        </geometry>
+</entity>

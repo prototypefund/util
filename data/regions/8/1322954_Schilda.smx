@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062440"/>
+        <tag k="de:regionalschluessel" v="120625202440"/>
+        <tag k="name" v="Schilda"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q532435"/>
+        <tag k="wikipedia" v="de:Schilda (Brandenburg)"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAMEAq1EQa4gOVQEnMkSBOVCFAKtM9+V/SzkBJzHXsFWdwQCrS
+xQizLOhAScxvlpDQnUAq0P9eGZDKQEnMa79ruzpAKs9ejwGQI0BJzDet7Db1QCrLGm1pj+ZAScxN
+fIqVGkAqyG/KkzapQEnMTHywVMdAKsZK7WQcCUBJzBVciJcTQCrDUOaiYOhAScwJPL+j70AqwT9N
+86jZQEnMDPxnxQtAKr66pzBbEUBJzAu79eT0QCq8M+rpF4ZAScwKfFrEcUAqulCM4E2zQEnL6nzg
+/C5AKroUqdswPUBJy+Z7ynu5QCq59c8kleFAScvknM0qwEAqudbnAgI4QEnL4nxhem5AKrle5+zj
+w0BJy9p74fiuQCq4bWSHaRVAScvKfJB0V0Aqt78Nx2jfQEnMGHzOh7hAKrrCoqdfVUBJzIYc5RMU
+QCq7d2jtKWNASczpG7fsa0Aqu7vG6wt8QEnNUDxYdeNAKrzFq3BbskBJzVFc6eXiQCq9AutsywRA
+Sc2gmxWanEAqvjznERuxQEnNvrxo0XpAKsGCTvo5FkBJzklbk6SNQCrEq0+kgwFASc6zu4PPLUAq
+xx4IKMNtQEnO8Dw9nfBAKscWiNiBNkBJzxacI7eVQCrKIFrpWqJASc94J1kKXUAq0hvwII7rQEnP
+ZtoprKFAKtW81QgEsUBJz/cHMvooQCrY7kaaGERASc/lugOcbEAq2KP1PS5eQEnPOLYp8xhAKtv6
+jCK4kUBJzr+Wg2SkQCrXGRqDOQVASc5SZ6vgxEAq0CrY8Z49QEnOPD9Lb2pAKtFGhs0OO0BJzc0u
+8lvSQCrRQlG0J7pASc2hE+FeVEAq0W+1moEgQEnNc+Wq6iRAKtOgZWW1ZkBJzXVpOKi+QCrUpfn6
+LIFASc1juDY800Aq1UkYd8YKQEnNI75LKcpAKtVn3wxqcUBJzRAYe/fIQCrVE6hTcMBASczKNvBX
+FUAq1JwerxewQEnMvfxPcVdAKtQnZnZWnkBJzKwUxmCiQCrURBriA5VAScyRIE5UIQ==
+        </geometry>
+</entity>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="34490"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066124"/>
+        <tag k="de:regionalschluessel" v="120665607124"/>
+        <tag k="name" v="Hermsdorf"/>
+        <tag k="name:dsb" v="Lubušow"/>
+        <tag k="name:hsb" v="Lubušow"/>
+        <tag k="official_name" v="Hermsdorf"/>
+        <tag k="population" v="796"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q636083"/>
+        <tag k="wikipedia" v="de:Hermsdorf (bei Ruhland)"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

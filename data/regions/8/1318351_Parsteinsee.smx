@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12060185"/>
+        <tag k="de:regionalschluessel" v="120605011185"/>
+        <tag k="name" v="Parsteinsee"/>
+        <tag k="openGeoDB:auto_update" v="population,place,name,is_in"/>
+        <tag k="openGeoDB:combination_of_public_administration" v="Amt Oderberg"/>
+        <tag k="openGeoDB:community_identification_number" v="12060185"/>
+        <tag k="openGeoDB:is_in" v="Barnim,Brandenburg,Bundesrepublik Deutschland,Europe"/>
+        <tag k="openGeoDB:is_in_loc_id" v="289"/>
+        <tag k="openGeoDB:layer" v="6"/>
+        <tag k="openGeoDB:license_plate_code" v="BAR"/>
+        <tag k="openGeoDB:loc_id" v="22325"/>
+        <tag k="openGeoDB:location" v="political_structure"/>
+        <tag k="openGeoDB:name" v="Parsteinsee"/>
+        <tag k="openGeoDB:population" v="596"/>
+        <tag k="openGeoDB:postal_codes" v="16248"/>
+        <tag k="openGeoDB:sort_name" v="PARSTEINSEE"/>
+        <tag k="openGeoDB:telephone_area_code" v="033369"/>
+        <tag k="openGeoDB:type" v="Gemeinde"/>
+        <tag k="openGeoDB:version" v="0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/"/>
+        <tag k="place" v="municipality"/>
+        <tag k="population" v="596"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q560215"/>
+        <tag k="wikipedia" v="de:Parsteinsee"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

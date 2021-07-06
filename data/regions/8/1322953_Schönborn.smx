@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062453"/>
+        <tag k="de:regionalschluessel" v="120625202453"/>
+        <tag k="name" v="Schönborn"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q551515"/>
+        <tag k="wikipedia" v="de:Schönborn (Niederlausitz)"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

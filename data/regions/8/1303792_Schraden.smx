@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="40478"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062464"/>
+        <tag k="de:regionalschluessel" v="120625207464"/>
+        <tag k="name" v="Schraden"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q573850"/>
+        <tag k="wikipedia" v="de:Schraden (Gemeinde)"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAQ0ArTEO5kzQkQEm2ndE2vtlAK0yK7Fesj0BJtwESTrcdQCtQ
+8vs0vyRASbcZVGTcIkArUJVRNXy5QEm33nZCfHxAK0knssxwhkBJt73jJP3mQCtIvCdjG1hASbhv
+hBxZ00ArR2MAgFiAQEm4XBncShhAK0bYA2G0UEBJuTZtelbeQCtNnIyTINlASblShQgSHUArWELf
+eKD7QEm5e7gHQupAK1mni8qj/UBJuSvLX+VDQCtca72+PBBASbjmI7XnrkArW/GK8jbpQEm5qW1M
+M7VAK19lbUIiukBJuadvRTI5QCtfF/1Mx1lASbopnLF8DkArXxKW23k4QEm6MrID86pAK2O9UtxF
+5kBJup7irrZhQCtkaKyRw+JASbrtLL6k7EAra3BK67adQEm61u6OvnRAK2ueBg/keUBJussJfi4D
+QCtrtZ3cHnlASbrE8gz4NkAra+v/l/s0QEm6tsosCJxAK2xENbn2MEBJupwvdg9RQCtslqQb05tA
+SbqNrCWNWEArbLKtZtX4QEm6gssg+yJAK21LwZ9yIEBJukcpij0FQCtu90LCHG9ASbnNUIBLFEAr
+b2Aa8sqNQEm5py0AE0tAK3A8r7O3UkBJuR6MswFJQCtwdp7CzkZASbjw8W9DhEArcIxnge9ZQEm4
+vbyOkShAK3CaGfIZjUBJuItSrvl9QCtwaUpGdS9ASbg34e6dAUArb4SEXp7xQEm4Pq26uM5AK28z
+l90A90BJuApGqt88QCtuNrdMMgdASbgDrTOqUUArbvRt+4YdQEm3uO0b961AK2+vDMhlX0BJt06X
+PMgHQCtwHNX5nDhASbdWT5ftyEArcIhoGO4NQEm3X3JWXrFAK3G/iECrwUBJt0gh18EcQCtxp9+t
+eiFASbcwqRU3n0ArcHTxQ6SaQEm2WJGRjVtAK3AizLOiWUBJtjcxxXTpQCtvc1ViMiRASbXojsoy
+vkArboFtUumyQEm1hy5dCp1AK25cdvlboUBJtW+wkgOjQCtuGbWzq5NASbVaE3HMzEArbQBCRR7u
+QEm1aA4GUwBAK2nxvvSc9UBJtYZLCDwOQCtp3QX/9EFASbXKDCgsb0AraGrxD6I0QEm13VCojwBA
+K2gac0jM+EBJtnLJSzgMQCtl2NedCmdASbZ7BVncFEArZP4zdyXRQEm1Umy0XkFAK1++bLe5P0BJ
+tdc8kleGQCtfTCf2vw5ASbYT89LLE0ArXesI9/ZGQEm2GeqM0TRAK13UIwJjh0BJtjCuHbUcQCte
+fzZBBK1ASbYrU2rhH0ArXcq9KBQbQEm3HQn8AkRAK1vbme8p70BJtzi4rjHXQCtZpF/GOTRASbcv
+u69uF0ArWhj9JwerQEm2vIzjqLFAK1kmCKhFLkBJtrhucPbjQCtZl+91bkFASbZLeKRWjEArTEO5
+kzQkQEm2ndE2vtk=
+        </geometry>
+</entity>

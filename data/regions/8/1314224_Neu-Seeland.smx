@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="40382"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066226"/>
+        <tag k="de:regionalschluessel" v="120665601226"/>
+        <tag k="name" v="Neu-Seeland"/>
+        <tag k="name:dsb" v="Nowa Jazorina"/>
+        <tag k="name:hsb" v="Nowa Jazorina"/>
+        <tag k="population" v="592"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q589559"/>
+        <tag k="wikipedia" v="de:Neu-Seeland"/>
+        <geometry type="wkb-base64">
+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
+iLxALEgt94oPuEBJzAgxJul5
+        </geometry>
+</entity>

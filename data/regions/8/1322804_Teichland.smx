@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12071386"/>
+        <tag k="de:regionalschluessel" v="120715107386"/>
+        <tag k="name" v="Teichland"/>
+        <tag k="name:dsb" v="Gatojce"/>
+        <tag k="name:hsb" v="Gatojce"/>
+        <tag k="population" v="1118"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q637894"/>
+        <tag k="wikipedia" v="de:Teichland"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAiUAs6aM4fsyOQEntJNqq2+FALOn+f80/uUBJ7R16ZEosQCzq
+UBdviE5ASe0XWo+Yj0As6qG5IsvdQEntETq65vFALOtCoI6AYUBJ7QTaWlQJQCztyPuG9HtASezS
++uQ3TEAs8isC4wlPQEnsOLVTM4NALPBi1Aqur0BJ6/0xGKbAQCzxC+lCTllASevjxg2V6kAs98sq
+NV2wQEnqxwGxsOdALPfYhWezbUBJ6sR5QTR9QCz9PEozKflASem+3ElBkkAs/Oh7fvxfQEnnslH3
+Q5lALPvAfuCwr0BJ5x4ptrKvQCz7pHI6r/9ASeceyRjjJkAs+0554JauQEnnIGyHEddALPryvSFe
+HkBJ5xBOK9z9QCz6MZP2wmlASebzLYmmBkAs+Z8yX86cQEnm0FDly6FALPj8Fz0zZ0BJ5r0Vn6R1
+QCz4yyYDn8dASea3UGPFokAs97Zgeb1bQEnmoooDI6FALPcf61fST0BJ5qOODyHcQCz1wTka08BA
+Sealr1GRw0As84xDb8FZQEnmoAx6YcZALPOzlcQiA0BJ5nlJl/mGQCzzYBryyo1ASeZ6qepJtUAs
+8zx0JJUKQEnmXyy2QXBALPJQsck7R0BJ5lbqyGBWQCzyOaA0vk1ASeZV7x/d7EAs8eRxLkCFQEnm
+dWu853xALPDqqH/makBJ5nHqKCdmQCzwOqebutxASeZxbFPmMUAs7y8tFDVBQEnmW07bL2ZALO1o
+8jHhI0BJ5mFur+EDQCzropXBncRASeZtSoY2D0As6gm0tKgSQEnmiQrWHNdALOj7Nmyjl0BJ5q2s
+dhUwQCzn9iS06y5ASebLShXNx0As53IJMdfpQEnm+O29B11ALOc5Ke05VEBJ5xWRYbyzQCznnOIj
+diZASec2ypdoZ0As6Bud6zfyQEnnZm3zIqJALOf+x/GbuUBJ55BX0XgtQCznPxM7RidASegH9m6G
+xkAs5JyUH90VQEnoVTaTOgRALNthsPT/8UBJ5r8nyJvlQCzaI55qubJASeaqhXon5EAs2DyOJcgQ
+QEnmdZxkTzVALNXj5ECG2EBJ5oQZ1ZQbQCzTu4PPLPlASeaeOhJKhUAs0rDB1EtGQEnmnbSxTRRA
+LM/QZQfBlUBJ5nBpHqeLQCzNi9MHeXFASeceYD1XeUAszSI4OSxxQEnnIhGiv7NALMx3PHd/k0BJ
+5yF8UYo2QCzLmzf/Ss5ASeccbsuPtkAsy6aHvqXCQEnnPLFhNntALMv+iDC7iUBJ52ClXEV7QCzM
+DFwu1P9ASeeQ11M4jEAsy8X2GPZxQEnnlYHc5HJALMtgIajHNEBJ55WB3ORyQCzKyGBWgexASeeE
+KpyLvEAsyqnqSbVVQEnn1RVwqo1ALMnRJffhTUBJ6AjfopJmQCzJUAQkUe9ASegE8QCIvEAsySAL
+OEJmQEnoJR6deflALMmM6YfudkBJ6C+UQkHEQCzJK+tAVVpASehDeCTUy0AsyPubFnFbQEnoT3jk
+F2xALMmOA2Nhz0BJ6FYFxhKeQCzKNMaxKdlASehhWbcre0AsyldnxeH3QEnoaWNw6KBALMp/VHP1
+m0BJ6HQ5jcBHQCzKlMyrPt1ASeh6DQxX/UAsyp74fit/QEnoh1ag9oVALMnpGFzuF0BJ6Jb6guh9
+QCzJ7R577AlASeivzo9ErEAsykB0ZFXrQEnoyi9jmtpALMlslwIPpEBJ6Oda7YxgQCzIRDW59jBA
+SejdNqdb+kAsyD8wl3eAQEno41Z8DZdALMg8ATgOZEBJ6QHTPtbVQCzIN4xeR7RASekBfAECXkAs
+xZ9T7b3eQEno7cBiWz9ALMWgoB4YGUBJ6Qq8G6ShQCzEFLI+rA1ASej6Li7ndEAsw1lADTZJQEnp
+NBxnPtNALMLDvILSrUBJ6TGO7kTsQCzCdoxOV3xASekvLD11rEAswMCfl+BcQEnpjwM9oiJALL6t
+COIm0UBJ6fnrEwjxQCy+QoaNTVtASepFDicKMEAsveeJELVaQEnqVv/BFd9ALL3qk4cw4UBJ6leV
+EktcQCy+COgGDjdASepdaJDjEUAswUnhy2GSQEnrGibysxBALMGw4N37yUBJ63h86V+qQCzBxEpH
+S+9ASeuGvR4DIEAswdpjjkTRQEnroayNkiRALMHeRMRVL0BJ66y4Wk8BQCzB1oJYNHRASeux9ANy
+e0AswaOFq6YLQEnrwl60wT1ALMOjkWogL0BJ675AQg9vQCzEfp2U0N1ASeuxmkFfRkAsxa+iGZrb
+QEnrg2+LqRZALMY7A+IM0EBJ7BW7UyfFQCzGqmZwd2FASewbrrIvkkAsxvxH5JsfQEnsM43MBf1A
+LMdbenoZoUBJ7J/WynyQQCzIHfMwDeRASeye44V19kAsyE0H8I9JQEns39rGipNALMmLdROoU0BJ
+7NxGvVOzQCzLezy3QHNASeyp1v5+9kAszgKgxDBGQEns5L8x2ZdALM79pNvs+0BJ7NanQSIJQCzR
+knGHK9hASeyxwa6LmUAs1FC20bjEQEnsgm+xaMNALNamhTpnBEBJ7GaBPlkBQCzXt3b6MmBASexP
+gUeTPEAs2P9oKovEQEnsF9yVl6xALNn8rWUoeEBJ7DDQgmPzQCzZBd5mUkRASeygUUO/ckAs2nXk
+iKs0QEnsufcHMvpALNrZKqkg9kBJ7J/cqbmiQCzcqIhJ5f1ASex+BpYcNkAs3g4i2HIcQEnsXLvC
+uU1ALOITFzP5K0BJ7EfGaC69QCzlRGc4HX1ASewPXkHUtkAs5PlP4pZiQEnruNCWhelALORj0w4v
+bUBJ61R1oxpMQCzlPNBq5v5ASetNkzDJzEAs5nAjfopJQEnr4Ulbk6RALOcQrPZtsEBJ7C9GPqiy
+QCzmXGLXZa1ASexFiXcMp0As58Rjcb9gQEnsw+Pv/wFALOmjOH7MjkBJ7STaqtvh
+        </geometry>
+</entity>

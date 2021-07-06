@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066132"/>
+        <tag k="de:regionalschluessel" v="120665607132"/>
+        <tag k="name" v="Hohenbocka"/>
+        <tag k="name:de" v="Hohenbocka"/>
+        <tag k="name:hsb" v="Gmejna Bukow"/>
+        <tag k="official_name" v="Hohenbocka"/>
+        <tag k="population" v="970"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q177052"/>
+        <tag k="wikipedia" v="de:Hohenbocka"/>
+        <geometry type="wkb-base64">
+AAAAAAcAAAACAAAAAAYAAAABAAAAAAMAAAABAAAAPkAr90ThsWBfQEm5GiskcPhAK/sDeggD2kBJ
+uQhBFyGEQCv+OSdo+pVASblAPDAx90Ar/gLghRB1QEm5URt7holAK/6xYuP65kBJuVNl2KHtQCv/
+7Vk0TrxASblUUz5rdUAsAnlGPPszQEm5ZykEBUhALAQ6cevVpkBJuXHkSOpUQCwE28ttUTxASbmD
++Eek2kAsBatEvMhyQEm5kNWluWJALAb1izH3yUBJuZ5ayXoyQCwHAj6eoUBASbmRfkIlPkAsB2XB
+JPjdQEm5kSpfTxtALAdSslR7gkBJuVTMCi8uQCwIMzkScEVASbk6bONYKUAsDdscGui5QEm4rjHX
+EqFALBOlwcYIjUBJttZQA02SQCwUxWT5ftxASbaJxRA/6UAsFPlgqY4DQEm2bBoEjgRALBX7z++W
+/EBJtl0evwfoQCwWRyBQAaBASbZY4UKll0AsFsgTKahwQEm11QFOtJlALBb5b8MGekBJtc89wFTv
+QCwW+BYmsvJASbWkMnnPz0AsFsN5ZvQrQEm1mLZEywtALBXmMs9gJUBJtYGZyJOCQCwUZ2cXZk5A
+SbVrPI78h0AsEvY2UqJkQEm1XYUWVNZALA59HWIQlkBJtWSyMUAUQCwMeF0I75JASbVhxe21ekAs
+CIZqEeyRQEm1OLH4NTBALAeqJdjXnUBJtRoQTH5eQCwGZ16z6n1ASbUc+7lJYkAsBGHfGCjrQEm1
+SnSYWFFAK/9gP9u4IkBJtWQXAM2FQCv97iQ1aW5ASbVbaAWi10Ar+5Ky9YsyQEm1EEd14FdAK/pd
++NmbEUBJtQA8ZeHcQCv4e2d/axpASbUF8bGIo0Ar9HHcvC4ZQEm0wD5JEOtAK/IrEE8CnEBJtN5Z
+vQq4QCv0bZo3TktASbWxz/FEe0Ar9F0PpY9xQEm1+OwPiDNAK/MeAXLGx0BJthZrfE/cQCvxekzN
+OCxASbZnUh6wxUAr8Ev0yxiXQEm2urwpEJpAK/CZJP+TyUBJtxaKhgBfQCvv8ZGoM5BASbdqbVwj
+7UAr67x8HLEQQEm3qHoHLRtAK+wyrCS2mEBJt9sLU/EZQCvsW+u5IR5ASbfyoXKr70Ar7NyOCvAe
+QEm4AB4y8O5AK+243FUADEBJuCw5Q+5sQCvt2GIsRQJASbk78h6V7UAr7lUIcBEKQEm5OQ4+hyRA
+K+5IVQNnk0BJuQbp/wy7QCvvGN4dVylASbj/KUBrKkAr8paA4GUwQEm4ehz8kAlAK/PxRHtaE0BJ
+uNFTREqyQCv0reSqOSRASbi2uxKQJUAr9rI2SJFpQEm42uCLxnJAK/dE4bFgX0BJuRorJHD4AAAA
+AAFALALiFFyuVkBJt050AVmc
+        </geometry>
+</entity>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12071153"/>
+        <tag k="de:regionalschluessel" v="120715102153"/>
+        <tag k="name" v="Groß Schacksdorf-Simmersdorf"/>
+        <tag k="name:dsb" v="Tśěšojce-Žymjerojce"/>
+        <tag k="name:hsb" v="Tśěšojce-Žymjerojce"/>
+        <tag k="population" v="1025"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q39787"/>
+        <tag k="wikipedia" v="de:Groß Schacksdorf-Simmersdorf"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAMkAtXhKXsjjMQEnVI8oJo+1ALVbP/dm1EkBJ1BqJGEIWQC1S
+0GKDgtZASdR9abgqfkAtTs48OJVyQEnUgYkBm+FALU9BmtUC/EBJ1ZwKjSG8QC1ODBrAdaZASdXr
+6p9Fq0AtSMCBZO9uQEnVsmpK93VALUfjH/VozUBJ1bZo3TkrQC1HqLt1jHRASdXlBNH22EAtRwyL
+/30jQEnV8VzPDe9ALUVHU3uoF0BJ1fQ08KKVQC1FK8L8aXJASdXeXsWINUAtRaZC9UgWQEnVt3BE
+NbpALUVHU3uoF0BJ1bQc0p6eQC1Ej5bhWHVASdXRE4Nqg0AtQ82/OxPSQEnWAme5TL1ALTms4XT6
+fkBJ1qTSsr/bQC02x9ANye1ASdanq6sUFUAtNSRXzh0vQEnWsfWw8aVALTASMVrr30BJ1rpWqINB
+QC0vmni8qj9ASdbzpX6qKkAtK/rIiJptQEnXsiSq2jNALS1x4ptrK0BJ2WvvPGNdQC0wOpN5xOhA
+SdnaXNhIK0AtL1mDKRTMQEnajoO74cNALTdtQHU7FUBJ2w89iqUKQC05Kq/W8sBASdrxTAgWT0At
+OSqv1vLAQEnaFHrhR65ALTmwFC9h7UBJ2hDVOlmYQC06Bhn1dItASdoOeu0GKEAtO6haJr0DQEna
+AwtNOxxALT7hlNrt90BJ2k6YE4ecQC0/NZk/AMZASdpGGpaEO0AtQkBPe2hWQEnZ92vcx+xALUQi
+FCb+cUBJ2ix2gI/dQC1FZo+BEeNASdpOkjRKikAtRa5msDhBQEnaVlSga0VALUY0FNqCmEBJ2lm2
+VLtDQC1GKlsdXQhASdpju5E7JkAtRonXhLazQEnabg36lIZALUiNPkGELkBJ2qXCnMgiQC1ORCNF
+f2ZASdqf8nkuwEAtTo8p1A7gQEnaK7nCLg1ALVHt5HSJPkBJ2YMu9AlRQC1bA4QY/tRASdmUnogV
+40AtYVBy3xqtQEnY96/PZgRALWFQct8arUBJ2BrKhqFvQC1dgS5oyRdASddyMJ8EPEAtX0NPCilO
+QEnWZrbuPjZALV4Sl7I4zEBJ1SPKCaPt
+        </geometry>
+</entity>

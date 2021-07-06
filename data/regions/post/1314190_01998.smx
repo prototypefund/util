@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="boundary" v="postal_code"/>
+        <tag k="note" v="01998 Schipkau"/>
+        <tag k="postal_code" v="01998"/>
+        <tag k="postal_code_level" v="8"/>
+        <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Postleitzahlen_Deutschland_2010"/>
+        <tag k="type" v="boundary"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAO0Arvo+6HMbgQEnDYtJdL4ZAK8CcV7n7OUBJw1KyVHuCQCvG
+mryvSFdAScP3Mfskz0AryUJ9UxH1QEnD8ZGoM5BAK8zkWogL0kBJw6MBIWgvQCvPDFL0mZpAScNU
+SS1we0Ar0J9vnHANQEnDR9WBpzRAK9HYXtFGr0BJw9D/YXSPQCvTpd/4+XtAScQmm3U77EAr1k+8
+1rWEQEnD2uFihgdAK9dK7I1cdEBJw8+Gu3CEQCvXmUCuRflAScO8o4ndZEAr19dk1kNuQEnDtNmR
+AG5AK9hFDHmLBkBJw62a2F36QCvZkjUhSfxAScOe+wJqPUAr3A7COqKTQEnDizLOiWVAK+HA+Vnz
+kUBJw1V7XJewQCvjUD7ctKFAScPeHIBpR0Ar41JecaVeQEnEOreL8uhAK+LbskLdy0BJxDY1RjLq
+QCvjCIXgfzFAScSb6P8yekAr4LnY1EIMQEnEmOpHMRdAK96BTx/4w0BJxOoU3DAXQCvZrxvh3dZA
+ScXBBe8tSkAr2KZUkv9LQEnFrw2fJPRAK9erz/0C9UBJxdHm6AEFQCvW++nwygJAScWwKtWWoEAr
+1bd1TLM3QEnGK9IV4elAK9RFuvUz9EBJxmqpwgXJQCvTY/wo2upAScaONOGJHEAr0Sh1ag9oQEnG
+t+xq98VAK8+3elUwtEBJxtjG1hLGQCvOEMVKIYxAScb5OhMhRUAryTiN5gcwQEnHVpU4CwlAK8b3
+4HbNvEBJx2R/BZmdQCvCuLaVUuNAScdd0kMuU0ArvtJ+vXVBQEnHPLI39hBAK7w85WOch0BJxy6p
+YLb6QCu7sP1jbY1ASccrsjVx0kArt/uwDybkQEnHWPcSGrRAK7ebHSdYM0BJx12Rq46OQCuxHvgS
+y7RAScfGKvIcEUArr5yA1Ka2QEnHss4eBaRAK681Gb1AZ0BJx6turjOEQCut/sZEHI9ASceDjpVZ
+mUArrLVP2IVnQEnHXQ7Oz9xAK6uIJdPPH0BJxzsMRYigQCuqsAyipbFASccdbc8QdEArqhnd95d7
+QEnHDarjbflAK6jsI6opM0BJxu4muagtQCurnRsuWa9AScZ+so2GZkArrf2e/K/pQEnGFVGg3IRA
+K7GyPdVNpEBJxaMyn499QCu1riA5W2tAScWa8Yht+EArt7TUiILxQEnEIlI6X3dAK7ffQhpWw0BJ
+xBlFS2OrQCu6vdnqwoFAScN8kiHWE0Aru4UN8VpKQEnDd1MdtEZAK76PuhzG4EBJw2LSXS+G
+        </geometry>
+</entity>

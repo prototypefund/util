@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066064"/>
+        <tag k="de:regionalschluessel" v="120665606064"/>
+        <tag k="name" v="Frauendorf"/>
+        <tag k="population" v="690"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q581728"/>
+        <tag k="wikipedia" v="de:Frauendorf (Amt Ortrand)"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAANkArmHoKiBk+QEm1AX2ugYhAK5qUKECQ6UBJtcPT/8b1QCua
+ddPBs5RASbZVLwZ9yEArmnC3IkCcQEm2ba5ZRD9AK5mKGBxWeEBJtyQO0wGaQCuYoKeq1FRASbef
+DyRgMUArnP7oqMtlQEm3+XCZxg9AK5qZ9rarIkBJuL7TDwYtQCuax0nWDOdASbnSQYDT0EArmB1I
+D2NKQEm6iuTK8FNAK5CGQc4AqUBJuvamuupMQCuNw1ivxH5ASbqZkuOc80ArjHAh0QsgQEm6nDLR
+DaRAK4vtnFAtP0BJumgy70CVQCuIZp3DysVASbp1UpJ0C0Arh5ugBBbmQEm6vdM0xdpAK4U7WJui
+iEBJurnSHkVlQCuE77RYYcFASbq5kzQkykArhKP4mCyyQEm6uPL7NL9AK4OEYtCvsEBJugf9+0MC
+QCuB2XisugdASbmV+PspAEArgBYmsvIwQEm5lfj7KQBAK386l6uC0EBJud4vy5+mQCt9axUh0DRA
+SbneL8ufpkAre/Dz84JDQEm6FzJLrKZAK3rMN3uXUEBJue9I+JdWQCt8CVvJVHJASbmdkyNd00Ar
+e/Dz84JDQEm5JdjXnQpAK33lDuLx0kBJuN2gWac7QCt/g8h2/LZASbjX6+TACEArgP3ppUqnQEm4
+qGhpdeVAK4CD7+QpCkBJuBQlUPJhQCt/qGDcuapASbeUx6LBYEArf6hg3LmqQEm3E4DmRG1AK4FH
+FxXGO0BJtpu5LopXQCt/IjMwrvRASbaE6DGtIUArfQSwaOj3QEm2UwwWjrdAK3pmLVuC3UBJtiZj
+QRf4QCt6mdUou+FASbYVfu1F6UAresDdq0FhQEm2A8ZeHcJAK3rcas+Bs0BJtfatcObzQCt66nR9
+gF5ASbXmW+oLokArevSS5HOyQEm11fjFeRtAK4I+ThlohkBJtWWjyMeEQCuBDV22lHxASbUJhOP/
+70Arg4JNTLntQEm0jLPYCUFAK4RnAm2YiUBJs+NLlFMIQCuHer01gBRASbOc8uptx0ArjVJWDimO
+QEmy93NphChAK41pGnXNC0BJs642CNCJQCuP+lnN0a9ASbPRjtNs+kArkBEDXYKSQEm0GD67JrJA
+K5UGK5MrwUBJtFDK8665QCuYegqIGT5ASbUBfa6BiA==
+        </geometry>
+</entity>

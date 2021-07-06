@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="41024"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062134"/>
+        <tag k="de:place" v="town"/>
+        <tag k="de:regionalschluessel" v="120625209134"/>
+        <tag k="name" v="Fichtwald"/>
+        <tag k="population" v="780"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q553237"/>
+        <tag k="wikipedia" v="de:Fichtwald"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAQ0ArCC0QA4NCQEnaJPqLS/lAKwU1jYCGo0BJ25jbLbigQCsD
+yahVHj9ASduPuvOGdUArBDnoWRpNQEncBPsRg7ZAKwRE0BOpKkBJ3GZbfqvXQCr+8A1DtWFASdzD
+nyahVEAq+9nU8wv7QEncIk4IoY9AKvekRpvFw0BJ3Iv+pmOsQCr0jhGmGrFASdyL/qZjrEAq8rsf
+/B7KQEnbw7rVU4RAKuyyn/rcqkBJ28lKYU0iQCrrk0M+QzFASd3qZWQH50Aq6H0OSJgfQEneAKOT
+7l9AKuftY0VJtkBJ3nr7SOEaQCrqc+ncqAxASd91MdtEX0Aq6ZxnqjNEQEnfziWSYMBAKuq7wQvO
+akBJ4KbzHnAtQCrks0EKjEtASeGbgqfljEAq5Ed/8VHnQEniBRobNDlAKuHLqAme5UBJ4p+LSyI9
+QCrhfT/Gv2xASeLu/ya8LEAq4QHsaUpGQEnjN9ph4MVAKt+2dJuzT0BJ40KxVXgBQCreWYP/1GFA
+SeNAkcCHREAq2qIC9KcGQEniZlTIrzFAKtgKF7D2rUBJ4dgv114gQCrVDPWxyGRASeFoLr2CrUAq
+1CaPtsHIQEng6Nv3DDtAKsxO58Sf10BJ4KGNg+GhQCrLVj+ntbxASeAb2XpaOUAqzRhqWhDtQEnf
+NM8UpalAKsff8/D+BEBJ3uBARxfsQCrGhdgbtWhASd6VV+t5YEAqyWlMyrPuQEnd+ERJ2+xAKsw+
+xTetFUBJ3hc7hegMQCrPUQ7mTNBASd6PwoBCsEAq1YAor0uyQEnecNH6MzdAKtwuZkTYd0BJ3k28
+S3VJQCrcvI9n53BASd0V6J+RKkAq52FCOjczQEndV/MGHHlAKueQp4KQaEBJ3HgjJ0x1QCriYda0
+rRtASdvPVurIYEAq407DsnHXQEnbZOplZAhAKuge0KWfYUBJ21nn0uKQQCrsGZyJOCJASdqpu0/M
+x0Aq6+o6m91AQEnaC+UQkHFAKuW2yiwInEBJ2WMHNlUmQCriMnTHUjlASdlqXkKrdkAq35sMYGCT
+QEnY7YqydglAKt43pYi7JUBJ18fKLozbQCrgIg1xActASddrOuF9XkAq47qO3Kc1QEnXSfvMlJhA
+KuV5aKGqCUBJ1ywb570TQCrmWO0BH7pASdcdG5m5ekAq5znpL9niQEnXDjwC5Y1AKurzxjXZ1kBJ
+1xv73wkPQCrvKSxJNCZASddDO77y70Aq9WrOqvNeQEnXV9uJKDJAKvpDpx69WkBJ2CBbwBo3QCr+
+TepunkNASdkz+7APJ0Aq/4aqqYxWQEnZb5xwDa9AKwC/j81n/UBJ2atcOby6QCsCWmgrYoRASdnL
+vCuU2UArA6huSLL3QEnZ75st7lBAKwSXOxqIQUBJ2ivOuuOWQCsE8isrJvVASdpCvD0ykEArCC0Q
+A4NCQEnaJPqLS/k=
+        </geometry>
+</entity>

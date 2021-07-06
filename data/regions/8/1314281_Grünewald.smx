@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066116"/>
+        <tag k="de:regionalschluessel" v="120665607116"/>
+        <tag k="name" v="Grünewald"/>
+        <tag k="name:de" v="Grünewald"/>
+        <tag k="name:hsb" v="Zeleny Hózd"/>
+        <tag k="official_name" v="Grünewald"/>
+        <tag k="population" v="532"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q588878"/>
+        <tag k="wikipedia" v="de:Grünewald"/>
+        <geometry type="wkb-base64">
+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
+SbVdhRZU1gAAAAABQCv+0W7y/OJASbNgRbr1NA==
+        </geometry>
+</entity>

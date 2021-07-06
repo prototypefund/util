@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12061448"/>
+        <tag k="de:regionalschluessel" v="120615108448"/>
+        <tag k="name" v="Schwerin"/>
+        <tag k="population" v="820"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q564340"/>
+        <tag k="wikipedia" v="de:Schwerin (Landkreis Dahme-Spreewald)"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAATUArUaXQ34EEQEoRHzzcKWFAK1HXvcGXDkBKETudZQA1QCtR
+9G7SRbJAShFp8TVh4UArUhcqvvBrQEoRgtHW98lAK1IkYQhYlEBKEaFVT72tQCtSbexspURAShHk
+79lBT0ArUrd7K/BIQEoSEa9U7MFAK1KtEvMhy0BKEilrM1TBQCtT7h8s6/FAShJJBtoO1EArU/jy
+xYTaQEoSakAPuohAK1IGtE8nhUBKEt9xFD9SQCtRB7DOaYVAShMgkW//bEArUJ1xlW6RQEoTQ34E
+Ed1AK1EjLSuyNUBKE1E8MrY1QCtRBGM8D3pAShNf/L/Zn0ArUamd85ttQEoTbO4/5BtAK1JVLVj+
+nkBKE4LkS26TQCtSikY/f3FAShOfciCuzEArUx5EjqVJQEoTw/Iyt+NAK1Q/HHWBjEBKE+Ys8CMT
+QCtU3Zp6ailAShQCsLRoUkArVP3OzVgNQEoUJOtx04JAK1TjgG14qUBKFEWdmQKbQCtT+1V2VBpA
+ShQ6o2n89EArUzLsvFZdQEoUQ3PzFuNAK1K4wKZN3UBKFECl4n04QCtSeA4uluxAShQ4TiUnAUAr
+UbBGhEjPQEoUOpN5xOhAK1DbCM+yWkBKFEcacMSOQCtQL0pwZppAShQ3k+sD70ArT1xlW6RrQEoU
+PFefI0ZAK07UqGNg+EBKFDRUm2LHQCtN44ZMtbtAShQwSXPnWEArTYPDbn85QEoUOU0op79AK0zZ
+/7s2okBKFCCDLUaKQCtMIwx0golAShQZVGTcIkArS38T3FXWQEoUFJnq+DFAK0pSJj2BakBKFAfs
+XYvMQCtKI81kokFAShP9uP3i70ArScUGLu4qQEoUBbEZ6N9AK0k49erTSEBKFAQB7UAKQCtI4sSF
+1m5AShQJng5zYEArSKDxfK9+QEoUGIUyA4hAK0iLbzRrQUBKFCwcvnyoQCtH17VeGz5AShQ75zbb
+XkArR4UHO12kQEoURIfvTSpAK0c4hYKLYEBKFFUVBUrCQCtGrFOwgTxAShRoTPBzm0ArRnV8g98d
+QEoUaOnOZVNAK0ZBTn7pFEBKFGVTQO+0QCtF9UxH1y9AShRTYNAkcEArRbjVnwNmQEoUUQTVUdZA
+K0TGvpXSZEBKFFvHpvMeQCtC58tV1EhAShSB2zby20ArQay5MQ6VQEoUXon5EqZAK0Dt/Mg9G0BK
+FCBf8dgfQCtAsJSH4eFAShQPBi1Aq0ArN/8fL3AwQEoTTVol5kNAKzoBG4jygkBKExaPjn3cQCs5
+w8rFi5BAShMJNTLntEArOnJyDWOVQEoTB+kCjXlAK0D3vTtfUUBKElJvOJz/QCtCKt36G7pAShJF
+yg6sa0ArQejEehf0QEoSKrxsLHlAK0G9vI6RKEBKEg7FlaDmQCtCbhSwkS1AShIHLEQrqUArRoQx
+UohjQEoRmud3cv5AK0dSWxanC0BKEYP3cOVFQCtI6MH12TVAShFQvYe1a0ArSd1MdtEXQEoRLacC
+N+hAK0qGnhRSnUBKERi9Zid8QCtK7hyorTJAShEQQm1i2kArTHzsuqjeQEoRBHniRC1AK04KD016
+3UBKEQf48sWFQCtO4FzMibFAShESF1m42UArUDY5d/DSQEoRG1/X1uxAK1Gl0N+BBEBKER883Clh
+        </geometry>
+</entity>

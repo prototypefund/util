@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="34492"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066104"/>
+        <tag k="de:regionalschluessel" v="120665606104"/>
+        <tag k="name" v="Großkmehlen"/>
+        <tag k="name:dsb" v="Wjelike Chmjelny"/>
+        <tag k="name:hsb" v="Wjelike Chmjelny"/>
+        <tag k="population" v="1086"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q585221"/>
+        <tag k="wikipedia" v="de:Großkmehlen"/>
+        <geometry type="wkb-base64">
+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
+QQAAAAABQCty9zixIXVASbB91Rf06Q==
+        </geometry>
+</entity>

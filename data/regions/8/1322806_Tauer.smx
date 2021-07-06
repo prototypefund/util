@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="40436"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12071384"/>
+        <tag k="de:regionalschluessel" v="120715107384"/>
+        <tag k="name" v="Tauer"/>
+        <tag k="population" v="694"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q574808"/>
+        <tag k="wikipedia" v="de:Tauer"/>
+        <geometry type="wkb-base64">
+AAAAAAcAAAACAAAAAAYAAAABAAAAAAMAAAABAAAAVkAs+42+mgQiQEn6YBALD/5ALPryzehVv0BJ
++n1gfe8ZQCz5+hUEdANASfqR5XAxwUAs+SH700qVQEn6nFzCeLZALPhFy7wrlEBJ+q814xDcQCz3
+3NizitxASfrJ8Hl6P0As9rTVX0KFQEn7L8x2ZbhALPLNWA0HT0BJ+3UUfxMFQCzyUGScYctASfub
+sMsOhkAs8tAmHaD6QEn7w+MZP2xALPDGPxQSBUBJ/AJFVJ3nQCzvwUg0TDhASfv1tfoicEAs7kID
+sI6oQEn7yBMpqHBALOv8TcPYMUBJ+7K3d9DyQCzqM6LEu4ZASfuTUYD8FEAs5+BYmsvIQEn7Quzk
+mklALOYn+8eMG0BJ+ulQkRILQCzj+RD4dchASfpllzONzEAs4x9bDxpPQEn6HmRvFWFALOHrfmi7
+q0BJ+d0FKTSsQCzf9J95rWtASfnDrkAZy0As33eUjBOfQEn5rKUPGKFALN6ETCp6/UBJ+ZCVDhme
+QCzdEG7jDKpASflrrPdEb0As23jxg2V6QEn5NS0IdsdALNr97q3IJEBJ+HlgPi45QCzUChD6+gZA
+Sfgi4NWYTUAs1gV/m8GSQEn2i8dI/01ALNgfsXYvMUBJ9LnhN73cQCzarB4AnAdASfLcvrJX1kAs
+2tY+ZZZcQEny2+fywwBALN4JVsDW9UBJ8mM9vPnxQCzetUQaC0RASfJAA/wOA0As3t65Xlr/QEny
+I8/o4P9ALN9S619fC0BJ8fxIu1q0QCzfSLwxdBZASfH7IXPuDkAs31m42PoBQEnx95DFtYFALN7S
+e2J27UBJ8emelKsdQCze77YF4OpASfHjbfkB30As3jc2zfJmQEnxw2byfWBALN7MQYySSkBJ8Z8S
+f16FQCzgMgsVBvhASfFKAavRqkAs3mo6MH12QEnxEkIh439ALN8Oru9sNEBJ8OqebutwQCzgx98n
+QmRASfD7luSzc0As4Lpsd/hfQEnw5cnz1HhALOEEafIMIUBJ8NPYWcjJQCzhyW2cu41ASfDlV94N
+Z0As4mQonoS7QEnwwB5ooNNALOJZmCHKVUBJ8L4wUddjQCzg6254g59ASfCxIyMat0As4OeXU248
+QEnwkiODksdALOGaWNw6KEBJ8Jg4cInWQCzhdsmK+O1ASfBYl3DKbUAs4cpl6j+kQEnwWxyGSIRA
+LOJp7QOj+UBJ8CD3x0xaQCziWZghylVASfAgFHJ9zEAs4kkG2g7UQEnv3x+1p+1ALO0ZpcNzh0BJ
+8BLp54/GQCzvQESTrcdASfDdRpeUBkAs8OiMRfQAQEnxeS+WxoBALPh2MAgFiEBJ8gi6uaTSQCz7
+4qcppRVASfHYF4OqREAs/Bh4nMnPQEnx6LLcYL5ALPyLzSg8X0BJ8eIssGIzQCz9PKFw/m9ASfIb
+HZK3/kAs/wI+nqFAQEnyX+pLYtVALQC8Vl0D50BJ8nXbTm/PQCz/kHvjpi1ASfLgA+E2EEAs/pab
+uFfKQEnzC+UQkHFALPxdrVpAvkBJ82CyyD7IQCz+oiSClkdASfNzFMqSYEAs/mDKRTMQQEnz3KB/
+ZuhALPzgXnoI2kBJ9AKSgXdkQCz73tAEj7FASfRdSLBy+kAs/PDEItofQEn0apPykKtALPzgdfb9
+IkBJ9HfIjnmrQCz9KHwgDA9ASfSHgJJhl0As/LObo18VQEn0mpOUnNpALPykpxPVn0BJ9Kxkd3jd
+QCz9tHudL1BASfStppbYHkAs/2U0Nz8xQEn1lEPvQxlALQBGFY4GvkBJ9agfblpQQC0ACr92ovRA
+SfXYH+cmFEAs/a89b80XQEn4MsH0K7ZALPuNvpoEIkBJ+mAQCw/+AAAAAAFALOkft1VsQ0BJ8rpC
+ho1N
+        </geometry>
+</entity>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12061112"/>
+        <tag k="de:regionalschluessel" v="120610112112"/>
+        <tag k="name" v="Eichwalde"/>
+        <tag k="name:ru" v="Айхвальде"/>
+        <tag k="population" v="6449"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q583542"/>
+        <tag k="wikipedia" v="de:Eichwalde"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAV0ArNi3eX5xHQEov0tAcDKZAKzZ0vUE+jkBKL9bn2MHNQCs2
+6VCREgtASi/dj5KvmkArNvhBxZ0tQEov3mjWgy9AKzcXRMAjcUBKL+EVWS2YQCs4AmYLzZNASi/1
+YhdMTUArOD6CG86SQEov+vrdgVBAKzjXeCF5zUBKMAhmAA8ZQCs51jiGWUtASjAeVH7dVUArOfUF
+0PpZQEowIRHIf2BAKzqGQ3t/00BKMC13MY/FQCs703LZO3BASjBKBrRPJ0ArO9q8eZhyQEowSsRJ
+cIxAKzypRDGIOEBKMFy0Nf0SQCs8593KSxJASjBiJzyE60ArP1OdNgZMQEowmHF7bV5AK0Dr9LBA
+pUBKMLy6MBIWQCtBRtdU5gtASjDEnwDhp0ArQWEiWccbQEowxvegte1AK0HMYJZCzUBKMNA4khfF
+QCtDdoTBm0BASjBc5AalNUArQ332peQqQEowWtlqagFAK0PLfhgz00BKMEXf3iGJQCtENXbaUfBA
+SjAon1t6ekArRJ8Hl6P2QEowLB5r+9FAK0UjqVJ0QUBKMDB5RI98QCtFI710ajVASjAwco6S1UAr
+RTaMhAdhQEowMNIv4xxAK0VXGBTJu0BKMDH7+46BQCtFqO938oBASjA01qFh5UArR3sbKVEyQEow
+RGc4HX1AK0hlxwQ170BKMExM36yjQCtIqvGwseRASjBOshS6okArSPYt7yaUQEowUUZDsS9AK0kM
+/GfFC0BKMFIY0YgdQCtJHs/O38xASjADup+jn0ArSSHrDFL0QEov7gsK9f1AK0kjCELEoEBKL9vE
+t1SVQCtJIi4oMXdASi+w0O3DvUArSOtrHYVMQEovjIuUHVlAK0jBbEZ6N0BKL3abZ8/zQCtJf2YR
+rNBASi9rStG1akArSy0a6z3RQEovYR/ViF1AK0sh9srNGEBKL04r3P2cQCtLMmnfl6pASi85x6Hq
+oUArSz6n23u8QEovMYCrjApAK0lNYbKif0BKLzb/cI4HQCtHek56t1ZASi87UeWl4UArRiVtd9Kf
+QEovQKULvaNAK0Xz6/WHAEBKL0DQqqffQCtFYI62EMhASi8/GRqDOUArROlO45LiQEovPTXrdFdA
+K0SczSrAnkBKLzrOMieaQCtD1J17pmlASi81MTo0r0ArQ8P0tvahQEovNzAX9cBAK0O7ogId50BK
+LzQqqfe1QCtDK86645ZASi8uRLbpNUArQkrL1izIQEovJzrXbGNAK0IleuPL7EBKLylorxYCQCtC
+JvzEC11ASi8mHaD6t0ArQE5NauzeQEovF23azu5AK0BFTDprNkBKLxXiwFQYQCtAku6ErXlASi75
+YKmOA0ArQKhL5AQhQEou84nP9/pAK0C8JAgdBUBKLu0IrHbsQCtA2KzU38BASi7nhAg33UArQRH0
+HkpuQEou3EG01jZAK0AO3RKVLkBKLtUjs2NvQCtAAZYCNWRASi7UwztTk0ArP/e3XCI/QEou1GVH
+gnVAKz+afBeok0BKLtIl0iGgQCs+5KYHZiVASi7OEkcqYUArPiHcyZoSQEouyNn5BTpAKz3E/B3z
+MEBKLsnO64r+QCs9IrEE8ClASi7DXbhB+0ArPDj2wZLdQEousw3e5dRAKzv8UR7WhUBKLq+wXFO+
+QCs7wYtQKrpASi7EtacWWkArO3TyGmQvQEou23rleWxAKzpGGpaEO0BKLq6QoaNTQCs6KTPV8GJA
+Si6rBqlnbUArOc+qzZ6EQEouv+SG/bVAKzj+dpMEVEBKLvrYeNJ5QCs3aiU3x+1ASi9lpk0GQ0Ar
+NfAECXn8QEovyYbHLv5AKzYZpOyz80BKL87ZFocrQCs2Ld5fnEdASi/S0BwMpg==
+        </geometry>
+</entity>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_centre:postal_code" v="16767"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12065180"/>
+        <tag k="de:regionalschluessel" v="120650180180"/>
+        <tag k="name" v="Leegebruch"/>
+        <tag k="name:ru" v="Легебрух"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q531735"/>
+        <tag k="wikipedia" v="de:Leegebruch"/>
+        <geometry type="wkb-base64">
+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
+cL8=
+        </geometry>
+</entity>

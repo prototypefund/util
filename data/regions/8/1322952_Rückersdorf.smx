@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="33555"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062417"/>
+        <tag k="de:regionalschluessel" v="120625202417"/>
+        <tag k="name" v="Rückersdorf"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q561052"/>
+        <tag k="wikipedia" v="de:Rückersdorf (Niederlausitz)"/>
+        <geometry type="wkb-base64">
+AAAAAAcAAAACAAAAAAYAAAABAAAAAAMAAAABAAAAOUArCnDBMzuWQEnG/qjn6zZAKwuJ/vHjBkBJ
+x4df2zHqQCsM3pYi7JRAScgAwPAfuEArDiic1zu7QEnI0sEClC9AKw/MGHHmzUBJyNuAxLZ+QCsS
+A736ofJASclTQcZz7UArEuVh7whhQEnJwgGXr7RAKxalPGULHEBJyeoCZ7lMQCsZxpjWJTtAScn7
+gev96kArHyRc1pqsQEnLBqKxcFBAKyGCUlU3akBJy4fKZDzAQCsht4YTqtdAScujxkNF0EArIm9x
+p+MIQEnL1vVEuxtAKyJ/Tb349EBJy/clZesWQCsiZ4Oc2BJAScwFssdoCUArJBjnV5KOQEnL9+3i
+xwpAKyXp0OmR/0BJy+AnHKR7QCsoJSVTdp9AScvU111Jh0ArKgqY4DY2QEnL2u7Of1RAKyvfal5C
+q0BJy9qV4yu0QCsxxMMTD6dAScvXHzYmLEArMoPgyrCTQEnL1PqYt/JAKzKg4mM3B0BJy9SnjKFj
+QCsy8kD6nBNAScvTvYHWLkArM14+ebhSQEnL0of3sKZAKzHSV1BI7UBJyuWRv7CEQCsyAb/zoHZA
+ScphAMvX2kArNOCXhOxjQEnJgFsEMpRAKzUnssxwhkBJyJhNaT9eQCs37tRekYVAScgibDuSfUAr
+OJTA7MS6QEnHwqKnX1VAKzsseduOMEBJx2aHHZYTQCs+4KaeZNpAScdmhx2WE0ArQb961LJ0QEnH
+u0TlDF5AK0RuCPIXCUBJx3Z+4l4uQCtEqhQ7IGdAScba9K28ZkArRhJRO1v2QEnGmZ941qtAK0MZ
+z7TemUBJxiy6cy31QCs257PY4ABAScY2D4aFwEArNALD/56xQEnF8g98dMVAKzHr8H6CvUBJxUdc
+teN8QCsueJfBUkVAScWrb4TzGUArJaEBbOeKQEnGsoh96GNAKyCFGoaUA0BJxkGwpHgaQCsdV0cO
+skpAScZbZYFkGEArGsy9s1RVQEnGbu+h4+tAKxjAYzH+f0BJxn38hSE8QCsW+u5IR5dAScaBXIvy
+EUArFXCPtRRJQEnGTxydxXhAKxPrpP8oaUBJxi68q+1ZQCsR2u0hACpAScYynQs+IUArEDst03fh
+QEnGO7uX8SNAKw78xAtdK0BJxoTdSfKSQCsNI8eFZS9AScbD3ToCWkArC9iqUKECQEnG47zTWoVA
+KwrXaQgBVkBJxv1ct5D7QCsKcMEzO5ZAScb+qOfrNgAAAAABQCshQOP13j5AScmdVQ/8zQ==
+        </geometry>
+</entity>

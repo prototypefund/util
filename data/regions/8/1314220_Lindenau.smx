@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066188"/>
+        <tag k="de:regionalschluessel" v="120665606188"/>
+        <tag k="name" v="Lindenau"/>
+        <tag k="population" v="739"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q582810"/>
+        <tag k="wikipedia" v="de:Lindenau (Oberlausitz)"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAGUArh3q9NYAUQEmznPLqbcdAK4O3GQZhQ0BJsgcTGbg4QCt/
+7hh270pASbDS81d7EUArfzic/3+nQEmw6RGm8XFAK33NenG2JUBJsRVTTlutQCt69X3F/nxASbFt
+00Ix00ArdY+ZZZczQEmx2VVxS5xAK3GgRYVFTkBJsiq+8Gs3QCttVfreWA9ASbLR6JWAL0Ara0F/
+/RBhQEmzVrog+J5AK2vtVdlQaEBJtK+y4JJ8QCttl5uSmB1ASbVGEwnIAEArbhm1s6uTQEm1WhNx
+zMxAK25cdvlboUBJtW+wkgOjQCtugW1S6bJASbWHLl0KnUArb3NVYjIkQEm16I7KMr5AK3AizLOi
+WUBJtjcxxXTpQCtzQUpNKyxASbYBx4BcsUArc6iMe6PlQEm1/stMmgxAK3r0kuRzskBJtdX4xXkb
+QCuCPk4ZaIZASbVlo8jHhEArgQ1dtpR8QEm1CYTj/+9AK4OCTUy57UBJtIyz2AlBQCuEZwJtmIlA
+SbPjS5RTCEArh3q9NYAUQEmznPLqbcc=
+        </geometry>
+</entity>

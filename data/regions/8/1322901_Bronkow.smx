@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="33946"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066041"/>
+        <tag k="de:regionalschluessel" v="120665601041"/>
+        <tag k="name" v="Bronkow"/>
+        <tag k="name:dsb" v="Bronkowy"/>
+        <tag k="name:hsb" v="Bronkowy"/>
+        <tag k="population" v="580"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q582780"/>
+        <tag k="wikipedia" v="de:Bronkow"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="40422"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12071041"/>
+        <tag k="de:regionalschluessel" v="120715101041"/>
+        <tag k="name" v="Dissen-Striesow"/>
+        <tag k="name:dsb" v="Dešno-Strjažow"/>
+        <tag k="name:hsb" v="Dešno-Strjažow"/>
+        <tag k="population" v="984"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="postal_code" v="03096"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q574757"/>
+        <tag k="wikipedia" v="de:Dissen-Striesow"/>
+        <geometry type="wkb-base64">
+AAAAAAcAAAACAAAAAAYAAAABAAAAAAMAAAABAAAAgEAsiyNn5BToQEnm3wg4s6VALIohFtD83UBJ
+5utvT0M0QCyGYc/+sHRASec2tZ6y3kAsgviE4XuwQEnnb7ZxQLVALIH5EqX08UBJ6EJq3psrQCyC
+ItG8H9ZASej5ZojLFUAsfvFIrRf7QEnpAM5cGQVALH9LXqMjhkBJ6RWYF7laQCx+xUG+EHFASekY
+nYW3ZEAsfpU+wQXvQEnpPhAGB4FALH5IaSVdh0BJ6WRFI/Z/QCx9eNGi9WNASeo5noc/JEAsfPyx
+luZhQEnqm1YyO7xALHyuJGsZU0BJ6xHCoCMgQCx78quDpulASevJc3v4n0AsfVhkRSP2QEnr3Dej
+2zxALH7/C+Q50EBJ6/xmF4wNQCyAmmPD9LdASewRmlw3OEAsgKP/TilYQEnsDP4VRDVALIDF+/gz
+g0BJ7A8paK8WQCyBOIPVDDZASevQ9ic5KkAsgvHcUM5OQEnr7dSEUTNALIROjSvNDUBJ7JOAeuSi
+QCyFmBsUWHxASeyhpq5VEkAshY87ccYWQEnsrx2PXP9ALIfQqCOgGEBJ7NwxxJ4qQCyH3qRlpXZA
+SezYsrQc0kAsitiaYGj2QEntEbo8p1BALIrSJCSidkBJ7RWO3X31QCyLUDuBtk5ASe0eIin2c0As
+i1AJLM9sQEntIiuj8rlALIuGLoLKSkBJ7SVpRhS3QCyL1M/QjUtASe0v/R3NcEAsjE12q1gIQEnt
+MiNoutRALIyKpeDPuUBJ7T6FdszmQCyMvaKNXiJASe1DqMw8hEAsjQVe5JHlQEntRgdLTdxALI3G
+x9ANykBJ7UZ23NYvQCyN9VZY0ilASe1EEafIMEAsjk5LvW20QEntR0RiL6BALI7JRIIQEEBJ7U3a
+fmY3QCyPJsLiaD9ASe1Y9xIatEAsj/fBbR05QEnta66kw5lALJDFGyejs0BJ7XrRV3YIQCyQ9v34
+vsNASe1+vJ6BYEAskf+xJadZQEntki2UjcFALJGHV3e2GkBJ7b3oLXtjQCyRZg//UYRASe28Ct2p
+lEAskODrZ8KHQEnt8uptx4NALJJLzjSr2UBJ7g2q4235QCyXrlDgwyNASe5h4ZxnqkAsl8RmzL2z
+QEnuXDgPOwZALJrq5pNHcEBJ7kcyxHhqQCyaU7w/ts9ASe23zIqHrkAsmk63HTgfQEntrsf/B7JA
+LJmy2C8AnkBJ7LIdHh34QCyZnjNcTd5ASeynYq/4gEAsmaLNHwIjQEnspb9Byc9ALJnfaLDDgUBJ
+7J/5LytmQCyaIu/vEMRASeyYYLR1vkAsmgqmTC+DQEnsk7R9Sq5ALJn5EqX08UBJ7JGkAdJoQCyZ
+1vsj+CxASeyOfdyksUAsma2gt5sMQEnsi12WtAxALJmZwd2FgUBJ7Ik3S8aoQCyZYehSZFFASeyG
+dPmnIEAsmTBWCSERQEnsgT5ZASNALJj2rXDm80BJ7Hr/ep8CQCyY2BJ7LMdASex3ORyBQEAsmPW1
+I2LbQEnscvM8ox5ALJjkZJkGzEBJ7HBDXvphQCyY3DooGfpASexuz8Fz00AsmMiKR+z+QEnsaqc9
+xwtALJiyprDZUUBJ7GagSAmEQCyYm4sLYV1ASexiUttvJ0AsmIyZ1tY7QEnsYC1nQVdALJiBFGeW
+EUBJ7F44mntBQCyYbiPKCaRASexap+xCtEAsmFi1o7tbQEnsV8rCMJFALJhkQcj4LEBJ7FNg0CRw
+QCyYaB+kCjZASexPx75wEkAsmAPQbxi8QEnsRys3vC9ALJgGCtv8FEBJ7DFcmV4KQCyYIqfKtMRA
+Sevm5XzG+0AsmJjh47VGQEnry31BdD5ALJjtSvGV2kBJ68MLgusBQCyZadZdb0dASevQuOqXuUAs
+mYxwvCq+QEnrzDyEFM1ALJwtBfKISEBJ6wC6OiMRQCybaM72crhASeo93AOhdUAsmzONzAX9QEnq
+FAVwgklALJssxwhnrUBJ6hNokpCRQCybLClTtmBASeoS1pxZZ0AsmyZeOJp7QEnqD4WvAQpALJsX
+8zvMX0BJ6dqeRqeEQCybFGKNk9FASem5S+aIX0AsmxFAmiQDQEnppCrtE5RALJs7z7nnF0BJ6aKr
+kRLiQCybYDJvvtRASemiLbzRrUAsm2WmTQZDQEnpoRCGYAFALJvHCT5tI0BJ6aB/ZuhsQCyb/L/Z
+n0NASemfh/Aj6kAsnHg4IAH+QEnplzU7Sy9ALJ5tix3V00BJ6Wo6MH12QCyfe6tyCTFASelPvNa1
+hEAsn+AVfu1GQEnpKEj0ZZhALJyRsxtK30BJ6NTvsP1jQCycxvegte1ASeim3vx6OUAsnUMyhLeK
+QEnogocuXQpALJv0hKG60EBJ6C3LFGXoQCyagqVhTfhASefiVcsNsEAsmXa/ef3zQEnnrIey50hA
+LJlaTiovfkBJ56UrnhN8QCyZQdjoZAJASeefseGO+0AsmQ40dilSQEnnjUJzQhdALJiKekHlfUBJ
+54Imtk0uQCyYAILcvrJASed7/adgK0Asl3yWU5P7QEnnc81XNkdALJazkz/jRUBJ52LTM+8bQCyW
+ptJnQIFASeddMuD93EAslh303Y0OQEnnUAraTpVALJSvWR5/R0BJ5yzOlSPpQCyUa86FM7FASecm
+UMyhLkAskdue96dsQEnnAXl8w6BALJDuPIkdSkBJ5vLI39hCQCyQ2if/IopASebxgOE770AsjI3i
+rDIiQEnmziFgothALIsjZ+QU6EBJ5t8IOLOlAAAAAAFALJTGtITXakBJ6bXTjAOv
+        </geometry>
+</entity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="40484"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12062177"/>
+        <tag k="de:regionalschluessel" v="120625207177"/>
+        <tag k="name" v="Gorden-Staupitz"/>
+        <tag k="postal_code" v="03238"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q556059"/>
+        <tag k="wikipedia" v="de:Gorden-Staupitz"/>
+        <geometry type="wkb-base64">
+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
+        </geometry>
+</entity>

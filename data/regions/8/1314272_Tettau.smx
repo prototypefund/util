@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12066316"/>
+        <tag k="de:regionalschluessel" v="120665606316"/>
+        <tag k="name" v="Tettau"/>
+        <tag k="population" v="775"/>
+        <tag k="population:date" v="2017-12-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q583468"/>
+        <tag k="wikipedia" v="de:Tettau (Brandenburg)"/>
+        <geometry type="wkb-base64">
+AAAAAAYAAAABAAAAAAMAAAABAAAAOUAra3BK67adQEm61u6OvnRAK2ueBg/keUBJussJfi4DQCtr
+tZ3cHnlASbrE8gz4NkAra+v/l/s0QEm6tsosCJxAK2xENbn2MEBJupwvdg9RQCtslqQb05tASbqN
+rCWNWEArbLKtZtX4QEm6gssg+yJAK21LwZ9yIEBJukcpij0FQCtu90LCHG9ASbnNUIBLFEArb2Aa
+8sqNQEm5py0AE0tAK3A8r7O3UkBJuR6MswFJQCtwdp7CzkZASbjw8W9DhEArcIxnge9ZQEm4vbyO
+kShAK3CaGfIZjUBJuItSrvl9QCtwaUpGdS9ASbg34e6dAUArb4SEXp7xQEm4Pq26uM5AK28zl90A
+90BJuApGqt88QCtuNrdMMgdASbgDrTOqUUArbvRt+4YdQEm3uO0b961AK2+vDMhlX0BJt06XPMgH
+QCtwHNX5nDhASbdWT5ftyEArcIhoGO4NQEm3X3JWXrFAK3G/iECrwUBJt0gh18EcQCtxp9+teiFA
+SbcwqRU3n0ArcHTxQ6SaQEm2WJGRjVtAK3AizLOiWUBJtjcxxXTpQCtzQUpNKyxASbYBx4BcsUAr
+c6iMe6PlQEm1/stMmgxAK3r0kuRzskBJtdX4xXkbQCt66nR9gF5ASbXmW+oLokAretxqz4GzQEm1
+9q1w5vNAK3rA3atBYUBJtgPGXh3CQCt6mdUou+FASbYVfu1F6UAremYtW4LdQEm2JmNBF/hAK30E
+sGjo90BJtlMMFo63QCt/IjMwrvRASbaE6DGtIUArgUcXFcY7QEm2m7kuildAK3+oYNy5qkBJtxOA
+5kRtQCt/qGDcuapASbeUx6LBYEArgIPv5CkKQEm4FCVQ8mFAK4D96aVKp0BJuKhoaXXlQCt/g8h2
+/LZASbjX6+TACEArfeUO4vHSQEm43aBZpztAK3vw8/OCQ0BJuSXY150KQCt8CVvJVHJASbmdkyNd
+00Aresw3e5dQQEm570j4l1ZAK3vw8/OCQ0BJuhcyS6ymQCt9axUh0DRASbneL8ufpkArfzqXq4LQ
+QEm53i/Ln6ZAK4AWJrLyMEBJuZX4+ykAQCuB2XisugdASbmV+PspAEArg4Ri0K+wQEm6B/37QwJA
+K4Sj+JgsskBJurjy+zS/QCuEDDqg5b5ASbq30mnEv0Argt0ZSyqgQEm6tdK1RBpAK3Txnj1tSEBJ
+uqLy3q9NQCtrcErrtp1ASbrW7o6+dA==
+        </geometry>
+</entity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+        <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+        <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+        <tag k="TMC:cid_58:tabcd_1:LocationCode" v="34280"/>
+        <tag k="admin_level" v="8"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="de:amtlicher_gemeindeschluessel" v="12061244"/>
+        <tag k="de:regionalschluessel" v="120615114244"/>
+        <tag k="name" v="Kasel-Golzig"/>
+        <tag k="population" v="685"/>
+        <tag k="population:date" v="2017-01-31"/>
+        <tag k="source:population" v="https://www.destatis.de/"/>
+        <tag k="type" v="boundary"/>
+        <tag k="wikidata" v="Q584089"/>
+        <tag k="wikipedia" v="de:Kasel-Golzig"/>
+        <geometry type="wkb-base64">
+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
+AAAAAUArZRFMWJ4mQEn3kviVqHM=
+        </geometry>
+</entity>
