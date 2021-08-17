@@ -1,5 +1,8 @@
 # Waldbrand utilities
 
+**This repository is outdated, please use
+[waldbrand/website](https://github.com/waldbrand/website) instead**
+
 ## Preparing OSM data
 
 The tools in this repository work with OSM data stored at
