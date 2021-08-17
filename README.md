@@ -23,7 +23,7 @@ Doing that will:
 
 ## Data packaging
 
-Create assets for Android app and copy them to project:
+Create assets for Android app and copy them to the app repository:
 
     ./scripts/create-database.sh
     ./scripts/create-mapfile.sh
